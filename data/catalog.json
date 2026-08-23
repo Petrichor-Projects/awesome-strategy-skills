@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-09-06",
+  "updated": "2026-09-14",
   "maintainer": "Petrichor Projects",
   "entries": [
     {
@@ -851,6 +851,20 @@
       "description": "Marketing skills covering research, positioning, GTM, acquisition, monetization, and retention.",
       "why_included": "Maintains a coherent marketing context layer and several individually reviewed strategic workflows.",
       "conflict": "none"
+    },
+    {
+      "id": "notfair-plugin",
+      "name": "NotFair Plugin",
+      "url": "https://github.com/nowork-studio/notfair-plugin",
+      "publisher": "nowork-studio",
+      "kind": "collection",
+      "category": "collections-discovery",
+      "status": "collection",
+      "license": "MIT",
+      "last_reviewed": "2026-09-14",
+      "description": "Marketing skill collection covering evidence-led SEO, GEO, paid media, analytics, and cross-channel account workflows.",
+      "why_included": "Adds an execution-oriented marketing source whose workflows combine live first-party data, explicit decision rules, and approval boundaries.",
+      "conflict": "Maintained by the contributor's organization, nowork-studio."
     },
     {
       "id": "petrichor-marketing-skills",
