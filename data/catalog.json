@@ -371,6 +371,20 @@
       "conflict": "none"
     },
     {
+      "id": "portfolio-strategy",
+      "name": "Portfolio Strategy",
+      "url": "https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/portfolio-strategy",
+      "publisher": "Chris Brock",
+      "kind": "skill",
+      "category": "product-portfolio",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Forces business-unit investment, harvest, and exit choices through comparative tests.",
+      "why_included": "Uses the same attractiveness, right-to-win, and marginal-return logic across units and makes cross-subsidy and exit choices explicit.",
+      "conflict": "none"
+    },
+    {
       "id": "prioritization-craft",
       "name": "Prioritization Craft",
       "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/prioritization-craft",
@@ -399,6 +413,20 @@
       "conflict": "none"
     },
     {
+      "id": "wardley-map",
+      "name": "Wardley Map",
+      "url": "https://github.com/eterdis/strategy-skills/tree/main/wardley-map",
+      "publisher": "Eterdis AS",
+      "kind": "skill",
+      "category": "product-portfolio",
+      "status": "reviewed",
+      "license": "CC-BY-4.0",
+      "last_reviewed": "2026-09-04",
+      "description": "Maps value-chain components and their evolution to guide build, buy, and investment choices.",
+      "why_included": "Connects user needs, dependencies, evolution hypotheses, confidence, inertia, actions, and observable reassessment triggers.",
+      "conflict": "none"
+    },
+    {
       "id": "content-strategy",
       "name": "Content Strategy",
       "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy",
@@ -424,6 +452,20 @@
       "last_reviewed": "2026-08-21",
       "description": "Plans coordinated product and feature launches across audiences, channels, and phases.",
       "why_included": "Turns launch activity into a sequenced strategy with goals, audiences, assets, and follow-through.",
+      "conflict": "none"
+    },
+    {
+      "id": "market-entry",
+      "name": "Market Entry",
+      "url": "https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/market-entry",
+      "publisher": "Chris Brock",
+      "kind": "skill",
+      "category": "go-to-market-growth",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Tests expansion economics, advantage transfer, entry mode, and stopping criteria.",
+      "why_included": "Requires a bottom-up market view, explicit entry options, a narrow initial test, full costs, and a written walkaway condition.",
       "conflict": "none"
     },
     {
@@ -483,6 +525,20 @@
       "conflict": "none"
     },
     {
+      "id": "bull-bear-scenario-analysis",
+      "name": "Bull/Bear Scenario Analysis",
+      "url": "https://github.com/daloopa/investing/tree/main/.claude/skills/bull-bear",
+      "publisher": "Daloopa",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "reviewed",
+      "license": "Apache-2.0",
+      "last_reviewed": "2026-09-04",
+      "description": "Builds cited bull, base, and bear investment cases from fundamentals and filings.",
+      "why_included": "Requires current market context, bottom-up scenarios, traceable company data, valuation assumptions, and explicit sources for every reported figure.",
+      "conflict": "none"
+    },
+    {
       "id": "ceo-advisor",
       "name": "CEO Advisor",
       "url": "https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ceo-advisor",
@@ -536,6 +592,48 @@
       "last_reviewed": "2026-08-21",
       "description": "Separates raw board discussion from approved decisions and commitments.",
       "why_included": "Prevents unapproved debate from becoming remembered consensus and preserves decision provenance.",
+      "conflict": "none"
+    },
+    {
+      "id": "mergers-and-acquisitions",
+      "name": "Mergers and Acquisitions",
+      "url": "https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/mergers-and-acquisitions",
+      "publisher": "Chris Brock",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Structures acquisition thesis, screening, valuation, diligence, and integration choices.",
+      "why_included": "Defines the thesis before targets, sets walkaway conditions, treats diligence as falsification, and plans integration before closing.",
+      "conflict": "none"
+    },
+    {
+      "id": "one-page-strategy",
+      "name": "One Page Strategy",
+      "url": "https://github.com/olgasafonova/one-page-strategy/tree/main/one-page-strategy",
+      "publisher": "Olga Safonova",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Creates or audits a compact facts-problem-idea-solution strategy narrative.",
+      "why_included": "Uses section gates, sequential-coherence checks, falsifiability, explicit exclusions, and a rule against inventing facts.",
+      "conflict": "none"
+    },
+    {
+      "id": "scenario-planning",
+      "name": "Scenario Planning",
+      "url": "https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/scenario-planning",
+      "publisher": "Chris Brock",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Builds coherent futures from load-bearing uncertainties and defines response options.",
+      "why_included": "Separates predetermined facts from uncertainty and ends with no-regret moves, contingent actions, signals, owners, and triggers.",
       "conflict": "none"
     },
     {
@@ -595,6 +693,20 @@
       "conflict": "none"
     },
     {
+      "id": "meridian-budget-optimization",
+      "name": "Meridian Budget Optimization",
+      "url": "https://github.com/google/meridian/tree/main/skills/meridian_budget_optimization",
+      "publisher": "Google",
+      "kind": "skill",
+      "category": "measurement-experimentation",
+      "status": "reviewed",
+      "license": "Apache-2.0",
+      "last_reviewed": "2026-09-04",
+      "description": "Optimizes fixed or flexible media budgets from a fitted Meridian model.",
+      "why_included": "Makes constraints and assumptions explicit, compares scenarios, generates reproducible code and reports, and requires human checkpoints before execution.",
+      "conflict": "none"
+    },
+    {
       "id": "metrics-frameworks",
       "name": "Metrics Frameworks",
       "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/metrics-frameworks",
@@ -620,6 +732,34 @@
       "last_reviewed": "2026-08-21",
       "description": "Turns strategic intent into measurable quarterly outcomes and alignment mechanisms.",
       "why_included": "Provides clear tests for measurable key results and connects goals across levels.",
+      "conflict": "none"
+    },
+    {
+      "id": "operating-cadence",
+      "name": "Operating Cadence",
+      "url": "https://github.com/cbrock84/headcount/tree/main/plugins/operations/skills/operating-cadence",
+      "publisher": "Chris Brock",
+      "kind": "skill",
+      "category": "execution-systems",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Designs recurring decision forums, metrics, owners, and escalation paths.",
+      "why_included": "Separates weekly, monthly, and quarterly purposes and requires one metric source, named owners, escalation thresholds, and pruning rules.",
+      "conflict": "none"
+    },
+    {
+      "id": "recursive-decision-ledger",
+      "name": "Recursive Decision Ledger",
+      "url": "https://github.com/affaan-m/ECC/tree/main/skills/recursive-decision-ledger",
+      "publisher": "Affaan Mustafa / ECC",
+      "kind": "skill",
+      "category": "execution-systems",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-04",
+      "description": "Governs repeated decision trials with an append-only evidence and approval trail.",
+      "why_included": "Records fresh inputs, candidate marks, drift, replay checks, risk gates, and explicit human approval before live promotion.",
       "conflict": "none"
     },
     {

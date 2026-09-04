@@ -114,13 +114,16 @@ Status labels mean:
 
 ### Product and portfolio strategy
 
+- [Portfolio Strategy](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/portfolio-strategy) - Forces business-unit investment, harvest, and exit choices through attractiveness, right-to-win, and marginal-return tests. **Reviewed · MIT**.
 - [Prioritization Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/prioritization-craft) - Makes roadmap trade-offs explicit with RICE, ICE, Kano, and value-versus-effort models. **Reviewed · MIT**.
 - [Strategic PM](https://github.com/menkesu/awesome-pm-skills/tree/main/strategic-pm) - Connects product activity to outcomes, company choices, and a longer strategic horizon. **Reviewed · MIT**.
+- [Wardley Map](https://github.com/eterdis/strategy-skills/tree/main/wardley-map) - Maps user needs, component dependencies, evolution, inertia, and observable triggers to inform build, buy, and investment choices. **Reviewed · CC BY 4.0**.
 
 ### Go-to-market and growth
 
 - [Content Strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy) - Designs searchable and shareable content pillars around business and audience needs. **Reviewed · MIT**.
 - [Launch](https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch) - Plans coordinated product and feature launches across audiences, channels, and phases. **Reviewed · MIT**.
+- [Market Entry](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/market-entry) - Tests market size, advantage transfer, entry mode, economics, and stopping criteria before committing to expansion. **Reviewed · MIT**.
 - [Marketing Loops](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-loops) - Replaces isolated campaigns with compounding acquisition and distribution systems. **Reviewed · MIT**.
 - [Marketing Plan](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-plan) - Produces an executable, resource-aware GTM roadmap across the customer lifecycle. **Reviewed · MIT**.
 
@@ -131,10 +134,14 @@ Status labels mean:
 
 ### Executive decisions and operating systems
 
+- [Bull/Bear Scenario Analysis](https://github.com/daloopa/investing/tree/main/.claude/skills/bull-bear) - Builds cited bull, base, and bear investment cases from reported fundamentals, KPIs, filings, valuation assumptions, and current market expectations. **Reviewed · Apache 2.0**.
 - [CEO Advisor](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ceo-advisor) - Supports executive choices across vision, capital allocation, culture, boards, and investors. **Reviewed · MIT**.
 - [Change Management](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/change-management) - Adapts ADKAR to strategy pivots, reorganizations, process changes, and rollout resistance. **Reviewed · MIT**.
 - [Company OS](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/company-os) - Compares and implements operating rhythms, accountability systems, scorecards, and issue resolution. **Reviewed · MIT**.
 - [Decision Logger](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/decision-logger) - Separates raw board discussion from approved decisions and tracks commitments over time. **Reviewed · MIT**.
+- [Mergers and Acquisitions](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/mergers-and-acquisitions) - Starts with an acquisition thesis, sets valuation walkaways, uses diligence to falsify the case, and plans integration before close. **Reviewed · MIT**.
+- [One Page Strategy](https://github.com/olgasafonova/one-page-strategy/tree/main/one-page-strategy) - Creates or audits a compact facts-problem-idea-solution narrative with section gates, falsifiability checks, and explicit exclusions. **Reviewed · MIT**.
+- [Scenario Planning](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/scenario-planning) - Converts load-bearing uncertainties into coherent scenarios, no-regret moves, contingent options, and owned early-warning indicators. **Reviewed · MIT**.
 - [Scenario War Room](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/scenario-war-room) - Models cascading, multi-variable risk across finance, revenue, product, people, and operations. **Reviewed · MIT**.
 - [Strategic Alignment](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/strategic-alignment) - Finds broken strategy cascades, conflicting goals, silo optimization, and orphan work. **Reviewed · MIT**.
 
@@ -142,11 +149,14 @@ Status labels mean:
 
 - [A/B Testing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing) - Defines hypotheses, variants, success metrics, and decision rules for controlled experiments. **Reviewed · MIT**.
 - [Analytics](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics) - Builds a measurement plan tied to decisions rather than vanity reporting. **Reviewed · MIT**.
+- [Meridian Budget Optimization](https://github.com/google/meridian/tree/main/skills/meridian_budget_optimization) - Optimizes fixed or flexible media budgets from a fitted Meridian model with explicit constraints, scenario comparisons, and mandatory human checkpoints. **Reviewed · Apache 2.0**.
 - [Metrics Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/metrics-frameworks) - Selects North Star, leading, lagging, and lifecycle metrics around delivered customer value. **Reviewed · MIT**.
 - [OKR Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/okr-frameworks) - Turns strategic intent into measurable quarterly outcomes and alignment mechanisms. **Reviewed · MIT**.
 
 ### Execution systems
 
+- [Operating Cadence](https://github.com/cbrock84/headcount/tree/main/plugins/operations/skills/operating-cadence) - Designs weekly, monthly, and quarterly decision rhythms with one metric source, named owners, escalation thresholds, and pruning rules. **Reviewed · MIT**.
+- [Recursive Decision Ledger](https://github.com/affaan-m/ECC/tree/main/skills/recursive-decision-ledger) - Records bounded repeated trials, fresh evidence, candidate marks, replay gates, drift, and human approval before live promotion. **Reviewed · MIT**.
 - [Superpowers](https://github.com/obra/superpowers) - Adds disciplined brainstorming, planning, execution, verification, and review workflows to coding agents. **Reviewed · MIT**.
 
 ## Collections and discovery
@@ -174,7 +184,7 @@ An entry must do more than contain the word “strategy.” We look for:
 7. **Reproducibility** — Another operator can understand how the output was produced.
 8. **Maintenance and licensing** — Ownership, license, source, and a viable maintenance signal are visible.
 
-Read the full [editorial policy](EDITORIAL-POLICY.md) and the evolving [Petrichor Strategy Skill Index rubric](evaluation/RUBRIC.md). The machine-readable [catalog](data/catalog.json) records review dates, status, category, source, and license.
+Read the full [editorial policy](EDITORIAL-POLICY.md), the evolving [Petrichor Strategy Skill Index rubric](evaluation/RUBRIC.md), and the [September 2026 catalog expansion record](docs/CATALOG-EXPANSION-2026-09-04.md). The machine-readable [catalog](data/catalog.json) records review dates, status, category, source, and license.
 
 We optimize for trust per entry, not total entry count. Inclusion can be reversed when a project becomes stale, unsafe, misleading, or strategically generic.
 

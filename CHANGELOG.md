@@ -2,6 +2,13 @@
 
 All notable editorial and infrastructure changes are recorded here.
 
+## 2026-09-04
+
+- Reviewed more than 20 external candidates against the published admission standard and documented the decisions.
+- Added ten reviewed skills from six new publishers across product, GTM, executive decisions, measurement, and execution.
+- Rejected candidates with placeholder evidence, inconsistent financial arithmetic, missing licensing, or unsafe certainty.
+- Expanded the machine-readable catalog from 52 to 62 records.
+
 ## 2026-08-22
 
 - Added a pre-launch GitHub traffic baseline and decision-oriented measurement plan.
