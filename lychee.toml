@@ -6,7 +6,7 @@ retry_wait_time = 2
 max_retries = 2
 accept = [200, 204, 206, 429]
 exclude = [
-  "https://github.com/petrichorprojects/awesome-strategy-skills/issues/new.*",
+  "https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new.*",
   "https://img.shields.io/.*",
   "https://awesome.re/.*"
 ]

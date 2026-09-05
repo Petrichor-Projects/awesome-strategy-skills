@@ -18,7 +18,7 @@ Stars, social reach, repository size, and author reputation are not admission cr
 
 ## Nomination route
 
-Use the [skill nomination issue form](https://github.com/petrichorprojects/awesome-strategy-skills/issues/new?template=nominate-skill.yml). This is best when you want maintainers to review and add the entry.
+Use the [skill nomination issue form](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml). This is best when you want maintainers to review and add the entry.
 
 Include:
 
