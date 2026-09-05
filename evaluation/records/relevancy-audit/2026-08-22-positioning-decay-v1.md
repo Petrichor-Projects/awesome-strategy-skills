@@ -2,7 +2,7 @@
 
 ## Record
 
-- **Source:** [Pinned source](https://github.com/petrichorprojects/resilience-stack/tree/0ab4479e6e688b2df588dc488f8a25d0d029111c/skills/positioning/relevancy-audit)
+- **Source:** [Pinned source](https://github.com/Petrichor-Projects/resilience-stack/tree/0ab4479e6e688b2df588dc488f8a25d0d029111c/skills/positioning/relevancy-audit)
 - **Commit or version:** `0ab4479e6e688b2df588dc488f8a25d0d029111c`
 - **Evaluation date:** 2026-08-22
 - **Evaluator:** Codex for Petrichor Projects

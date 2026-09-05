@@ -35,7 +35,7 @@ def api_get(path: str, token: str) -> object:
 
 def main() -> int:
     token = os.environ.get("GITHUB_TOKEN")
-    repository = os.environ.get("GITHUB_REPOSITORY", "petrichorprojects/awesome-strategy-skills")
+    repository = os.environ.get("GITHUB_REPOSITORY", "Petrichor-Projects/awesome-strategy-skills")
     output = Path(os.environ.get("METRICS_OUTPUT", "metrics-snapshot.json"))
 
     if not token:

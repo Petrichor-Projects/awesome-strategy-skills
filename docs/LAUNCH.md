@@ -4,7 +4,7 @@
 
 Awesome Strategy Skills is an open, evidence-led index for people who need AI agents to improve consequential decisions. Fluent strategy prose is not enough.
 
-**Primary action:** [Explore the catalog](https://github.com/petrichorprojects/awesome-strategy-skills?utm_source=launch_kit&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=primary)
+**Primary action:** [Explore the catalog](https://github.com/Petrichor-Projects/awesome-strategy-skills?utm_source=launch_kit&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=primary)
 
 **Secondary action:** [Run the Resilience Stack](https://petrichorgrowth.com/resilience-stack?utm_source=launch_kit&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=secondary)
 
@@ -32,7 +32,7 @@ Then we published the uncomfortable part: our rubric, a reproducible positioning
 
 Use it. Challenge the scores. Nominate something better.
 
-Explore the catalog: https://github.com/petrichorprojects/awesome-strategy-skills?utm_source=linkedin&utm_medium=social&utm_campaign=awesome-strategy-skills&utm_content=founder_launch
+Explore the catalog: https://github.com/Petrichor-Projects/awesome-strategy-skills?utm_source=linkedin&utm_medium=social&utm_campaign=awesome-strategy-skills&utm_content=founder_launch
 
 ## Petrichor company LinkedIn post
 
@@ -44,7 +44,7 @@ The catalog includes 62 structured records across nine categories, the full 18-s
 
 Browse the catalog or nominate a skill we should review:
 
-https://github.com/petrichorprojects/awesome-strategy-skills?utm_source=linkedin&utm_medium=social&utm_campaign=awesome-strategy-skills&utm_content=company_launch
+https://github.com/Petrichor-Projects/awesome-strategy-skills?utm_source=linkedin&utm_medium=social&utm_campaign=awesome-strategy-skills&utm_content=company_launch
 
 ## Contributor outreach email
 
@@ -60,7 +60,7 @@ The list is editorial, not paid, and inclusion does not imply endorsement of eve
 
 If anything is inaccurate, please open an issue or reply with the correction. If the entry is useful to your community, sharing the catalog or adding the “Listed in Awesome Strategy Skills” badge would help qualified users find it.
 
-Repository: https://github.com/petrichorprojects/awesome-strategy-skills?utm_source=contributor_outreach&utm_medium=email&utm_campaign=awesome-strategy-skills&utm_content=listed_author
+Repository: https://github.com/Petrichor-Projects/awesome-strategy-skills?utm_source=contributor_outreach&utm_medium=email&utm_campaign=awesome-strategy-skills&utm_content=listed_author
 
 Thank you for making the work public.
 
@@ -81,7 +81,7 @@ The most useful feedback would be:
 2. Which strategy skill should be evaluated next?
 3. What would you need to reproduce or independently review the pilot?
 
-https://github.com/petrichorprojects/awesome-strategy-skills?utm_source=hacker_news&utm_medium=community&utm_campaign=awesome-strategy-skills&utm_content=show_hn
+https://github.com/Petrichor-Projects/awesome-strategy-skills?utm_source=hacker_news&utm_medium=community&utm_campaign=awesome-strategy-skills&utm_content=show_hn
 
 ## Thirty-day sequence
 

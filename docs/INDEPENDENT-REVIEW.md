@@ -42,4 +42,4 @@ Petrichor Projects published a three-skill positioning pilot with a public fixtu
 
 The review uses eight 0–3 dimensions and should take approximately 60–90 minutes. Your scores, reasoning, relationship disclosure, and any dissent would be published under your name or handle. There is no requirement to agree with Petrichor's result.
 
-Protocol: https://github.com/petrichorprojects/awesome-strategy-skills/blob/3669e6fa6171357c5c6e729f3439c7e700bf9b82/docs/INDEPENDENT-REVIEW.md
+Protocol: https://github.com/Petrichor-Projects/awesome-strategy-skills/blob/3669e6fa6171357c5c6e729f3439c7e700bf9b82/docs/INDEPENDENT-REVIEW.md

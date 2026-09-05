@@ -6,7 +6,7 @@
     {
       "id": "relevancy-audit",
       "name": "Relevancy Audit",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/positioning/relevancy-audit",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/relevancy-audit",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -21,7 +21,7 @@
     {
       "id": "positioning-under-pressure",
       "name": "Positioning Under Pressure",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/positioning/positioning-under-pressure",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/positioning-under-pressure",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -35,7 +35,7 @@
     {
       "id": "competitive-narrative-stress-test",
       "name": "Competitive Narrative Stress Test",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/positioning/competitive-narrative-stress-test",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/competitive-narrative-stress-test",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -49,7 +49,7 @@
     {
       "id": "reality-audit",
       "name": "Reality Audit",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/diagnostic/reality-audit",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/diagnostic/reality-audit",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "executive-decisions",
@@ -63,7 +63,7 @@
     {
       "id": "false-familiarity",
       "name": "False Familiarity",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/brand/false-familiarity",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/false-familiarity",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -77,7 +77,7 @@
     {
       "id": "brand-as-memory-system",
       "name": "Brand as Memory System",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/brand/brand-as-memory-system",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-as-memory-system",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -91,7 +91,7 @@
     {
       "id": "legacy-brand-relevance-reset",
       "name": "Legacy Brand Relevance Reset",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/brand/legacy-brand-relevance-reset",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/legacy-brand-relevance-reset",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -105,7 +105,7 @@
     {
       "id": "brand-permission-boundaries",
       "name": "Brand Permission Boundaries",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/brand/brand-permission-boundaries",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-permission-boundaries",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -119,7 +119,7 @@
     {
       "id": "revenue-story-audit",
       "name": "Revenue Story Audit",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/growth/revenue-story-audit",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/revenue-story-audit",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "go-to-market-growth",
@@ -133,7 +133,7 @@
     {
       "id": "pricing-authority-diagnostic",
       "name": "Pricing Authority Diagnostic",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/growth/pricing-authority-diagnostic",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/pricing-authority-diagnostic",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "pricing-monetization",
@@ -147,7 +147,7 @@
     {
       "id": "category-creation-pressure-test",
       "name": "Category Creation Pressure Test",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/market-definition/category-creation-pressure-test",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/category-creation-pressure-test",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "positioning-competitive",
@@ -161,7 +161,7 @@
     {
       "id": "tam-lie-detector",
       "name": "TAM Lie Detector",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/market-definition/tam-lie-detector",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/tam-lie-detector",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "customer-market-intelligence",
@@ -175,7 +175,7 @@
     {
       "id": "competitive-blind-spot-mapping",
       "name": "Competitive Blind Spot Mapping",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/intelligence/competitive-blind-spot-mapping",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/competitive-blind-spot-mapping",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "customer-market-intelligence",
@@ -189,7 +189,7 @@
     {
       "id": "signal-vs-noise-audit",
       "name": "Signal vs. Noise Audit",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/intelligence/signal-vs-noise-audit",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/signal-vs-noise-audit",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "customer-market-intelligence",
@@ -203,7 +203,7 @@
     {
       "id": "customer-truth-extraction",
       "name": "Customer Truth Extraction",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/intelligence/customer-truth-extraction",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/customer-truth-extraction",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "customer-market-intelligence",
@@ -217,7 +217,7 @@
     {
       "id": "investor-story-forensics",
       "name": "Investor Story Forensics",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/investor/investor-story-forensics",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "executive-decisions",
@@ -231,7 +231,7 @@
     {
       "id": "board-narrative-alignment",
       "name": "Board Narrative Alignment",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/investor/board-narrative-alignment",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/board-narrative-alignment",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "executive-decisions",
@@ -245,7 +245,7 @@
     {
       "id": "exit-narrative-architecture",
       "name": "Exit Narrative Architecture",
-      "url": "https://github.com/petrichorprojects/resilience-stack/tree/main/skills/investor/exit-narrative-architecture",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/exit-narrative-architecture",
       "publisher": "Petrichor Projects",
       "kind": "skill",
       "category": "executive-decisions",
@@ -863,7 +863,7 @@
     {
       "id": "resilience-stack",
       "name": "Resilience Stack",
-      "url": "https://github.com/petrichorprojects/resilience-stack",
+      "url": "https://github.com/Petrichor-Projects/resilience-stack",
       "publisher": "Petrichor Projects",
       "kind": "collection",
       "category": "collections-discovery",

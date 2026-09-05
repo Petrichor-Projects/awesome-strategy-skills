@@ -17,7 +17,7 @@ It is a methods demonstration, not a definitive leaderboard.
 
 | Label | Skill | Publisher | Commit | Source |
 |---|---|---|---|---|
-| A | Relevancy Audit | Petrichor Projects | `0ab4479e6e688b2df588dc488f8a25d0d029111c` | [Source](https://github.com/petrichorprojects/resilience-stack/tree/0ab4479e6e688b2df588dc488f8a25d0d029111c/skills/positioning/relevancy-audit) |
+| A | Relevancy Audit | Petrichor Projects | `0ab4479e6e688b2df588dc488f8a25d0d029111c` | [Source](https://github.com/Petrichor-Projects/resilience-stack/tree/0ab4479e6e688b2df588dc488f8a25d0d029111c/skills/positioning/relevancy-audit) |
 | B | Positioning Craft | Udi Menkes | `53530efba26431c05ac3fd1dcc5452bdb2fc120e` | [Source](https://github.com/menkesu/awesome-pm-skills/tree/53530efba26431c05ac3fd1dcc5452bdb2fc120e/positioning-craft) |
 | C | Product Marketing Context | Corey Haines | `3df87f97621e18fbed7f6aa684edba54f49779a7` | [Source](https://github.com/coreyhaines31/marketingskills/tree/3df87f97621e18fbed7f6aa684edba54f49779a7/skills/product-marketing) |
 
