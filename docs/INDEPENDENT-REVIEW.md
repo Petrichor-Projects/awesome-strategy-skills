@@ -1,17 +1,17 @@
 # Independent Review Protocol
 
-The first positioning pilot is intentionally provisional. This protocol makes third-party review concrete without manufacturing endorsement.
+The nine-skill positioning benchmark is intentionally provisional. This protocol makes third-party review concrete without manufacturing endorsement.
 
 ## Reviewer brief
 
 Reviewers receive:
 
 1. the [fixture input](../evaluation/fixtures/positioning-decay-v1/input.md);
-2. the three preserved [outputs](../evaluation/runs/2026-08-22-positioning-pilot/outputs/);
+2. the nine preserved outputs linked from the benchmark [method](../evaluation/runs/2026-09-06-positioning-benchmark/METHOD.md);
 3. the [Strategy Skill Index](../evaluation/RUBRIC.md); and
 4. a blank copy of the [evaluation template](../evaluation/template.md).
 
-Reviewers must not see the existing `SCORES.md` or `REPORT.md` until they submit their initial scores.
+Reviewers must not see the benchmark `SCORES.md` or `REPORT.md` until they submit their initial scores.
 
 ## Eligibility and disclosure
 
@@ -25,10 +25,10 @@ Reviewers must not see the existing `SCORES.md` or `REPORT.md` until they submit
 Open a pull request containing one record per skill under:
 
 ```text
-evaluation/independent-reviews/<reviewer-handle>/2026-08-22-positioning-pilot/
+evaluation/independent-reviews/<reviewer-handle>/2026-09-06-positioning-benchmark/
 ```
 
-Each record must cite output evidence for all eight dimensions, identify any critical failure, and include a conflict statement.
+Each record must cite output evidence for all eight dimensions, identify any critical failure, and include a conflict statement. Reviewers may open the [independent review issue](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=independent-review.yml) to register an external review or submit the records directly in a pull request.
 
 ## Resolution
 
@@ -38,8 +38,8 @@ Maintainers compare evidence, not reviewer authority. Score disagreements are sh
 
 **Subject:** Independent review request: open AI strategy-skill benchmark
 
-Petrichor Projects published a three-skill positioning pilot with a public fixture, pinned sources, full outputs, and a disclosed author conflict. We are looking for an independent reviewer to score the preserved outputs before seeing our scores.
+Petrichor Projects published a nine-skill positioning benchmark with a public fixture, pinned sources, full outputs, and a disclosed author conflict. We are looking for an independent reviewer to score the preserved outputs before seeing our scores.
 
-The review uses eight 0–3 dimensions and should take approximately 60–90 minutes. Your scores, reasoning, relationship disclosure, and any dissent would be published under your name or handle. There is no requirement to agree with Petrichor's result.
+The review uses eight 0–3 dimensions and should take approximately 90–120 minutes. Your scores, reasoning, relationship disclosure, and any dissent would be published under your name or handle. There is no requirement to agree with Petrichor's result.
 
-Protocol: https://github.com/Petrichor-Projects/awesome-strategy-skills/blob/3669e6fa6171357c5c6e729f3439c7e700bf9b82/docs/INDEPENDENT-REVIEW.md
+Protocol: https://github.com/Petrichor-Projects/awesome-strategy-skills/blob/main/docs/INDEPENDENT-REVIEW.md

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-08-22",
+  "updated": "2026-09-06",
   "maintainer": "Petrichor Projects",
   "entries": [
     {
@@ -265,10 +265,11 @@
       "category": "customer-market-intelligence",
       "status": "reviewed",
       "license": "MIT",
-      "last_reviewed": "2026-08-21",
+      "last_reviewed": "2026-09-06",
       "description": "Builds a recurring competitor-tracking system for positioning, sales, and roadmap decisions.",
       "why_included": "Connects tracked evidence to distinct cross-functional decisions and output formats.",
-      "conflict": "none"
+      "conflict": "none",
+      "evaluation": "evaluation/records/competitive-intelligence/2026-09-06-positioning-decay-v1.md"
     },
     {
       "id": "competitor-profiling",
@@ -279,10 +280,11 @@
       "category": "customer-market-intelligence",
       "status": "reviewed",
       "license": "MIT",
-      "last_reviewed": "2026-08-21",
+      "last_reviewed": "2026-09-06",
       "description": "Produces structured, source-traceable competitor profiles from live market evidence.",
       "why_included": "Preserves raw research and labels inference, improving comparability and auditability.",
-      "conflict": "none"
+      "conflict": "none",
+      "evaluation": "evaluation/records/competitor-profiling/2026-09-06-positioning-decay-v1.md"
     },
     {
       "id": "continuous-discovery",
@@ -307,10 +309,11 @@
       "category": "customer-market-intelligence",
       "status": "reviewed",
       "license": "MIT",
-      "last_reviewed": "2026-08-21",
+      "last_reviewed": "2026-09-06",
       "description": "Extracts jobs, pains, triggers, objections, and language from customer evidence.",
       "why_included": "Separates research modes and preserves verbatim evidence for downstream strategy.",
-      "conflict": "none"
+      "conflict": "none",
+      "evaluation": "evaluation/records/customer-research/2026-09-06-positioning-decay-v1.md"
     },
     {
       "id": "jtbd-building",
@@ -365,10 +368,11 @@
       "category": "positioning-competitive",
       "status": "reviewed",
       "license": "MIT",
-      "last_reviewed": "2026-08-21",
+      "last_reviewed": "2026-09-06",
       "description": "Structures where-to-play and how-to-win product choices.",
       "why_included": "Connects aspiration, market choice, advantage, capabilities, and systems rather than stopping at tactics.",
-      "conflict": "none"
+      "conflict": "none",
+      "evaluation": "evaluation/records/strategy-frameworks/2026-09-06-positioning-decay-v1.md"
     },
     {
       "id": "portfolio-strategy",
@@ -617,10 +621,11 @@
       "category": "executive-decisions",
       "status": "reviewed",
       "license": "MIT",
-      "last_reviewed": "2026-09-04",
+      "last_reviewed": "2026-09-06",
       "description": "Creates or audits a compact facts-problem-idea-solution strategy narrative.",
       "why_included": "Uses section gates, sequential-coherence checks, falsifiability, explicit exclusions, and a rule against inventing facts.",
-      "conflict": "none"
+      "conflict": "none",
+      "evaluation": "evaluation/records/one-page-strategy/2026-09-06-positioning-decay-v1.md"
     },
     {
       "id": "scenario-planning",
@@ -631,10 +636,11 @@
       "category": "executive-decisions",
       "status": "reviewed",
       "license": "MIT",
-      "last_reviewed": "2026-09-04",
+      "last_reviewed": "2026-09-06",
       "description": "Builds coherent futures from load-bearing uncertainties and defines response options.",
       "why_included": "Separates predetermined facts from uncertainty and ends with no-regret moves, contingent actions, signals, owners, and triggers.",
-      "conflict": "none"
+      "conflict": "none",
+      "evaluation": "evaluation/records/scenario-planning/2026-09-06-positioning-decay-v1.md"
     },
     {
       "id": "scenario-war-room",

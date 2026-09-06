@@ -1,0 +1,45 @@
+{
+  "captured_at": "2026-09-06T10:00:00-04:00",
+  "period": "pre-benchmark-launch",
+  "repository": "Petrichor-Projects/awesome-strategy-skills",
+  "landing_page": "https://petrichorgrowth.com/awesome-strategy-skills",
+  "repository_counts": {
+    "stars": 0,
+    "forks": 1,
+    "watchers": 0,
+    "open_issues": 3,
+    "contributors_total": 1,
+    "contributors_independent_of_petrichor": 0,
+    "traffic_views_retained_window": 1,
+    "traffic_unique_visitors_retained_window": 1,
+    "clones_retained_window": 47,
+    "unique_cloners_retained_window": 29
+  },
+  "authority_counts": {
+    "repository_live_referring_domains": 0,
+    "landing_page_live_referring_domains": 0,
+    "completed_independent_reviews": 0,
+    "verified_contributor_badge_placements": 0
+  },
+  "website_funnel": {
+    "awesome_strategy_skills_visits": null,
+    "catalog_clicks": null,
+    "email_capture_starts": null,
+    "resilience_stack_clicks": null,
+    "diagnostic_starts": null,
+    "diagnostic_completions": null,
+    "qualified_inquiries": null
+  },
+  "website_baseline_status": "Unavailable from the current analytics access. Do not convert missing history to zero. Start the comparable series when the expanded event set is live and record the first complete seven-day window.",
+  "sources": {
+    "repository": "GitHub Repository and Traffic APIs",
+    "referring_domains": "Ahrefs Site Explorer exact-URL backlinks stats, 2026-09-06",
+    "website": "GA4 campaign and event export required"
+  },
+  "notes": [
+    "GitHub traffic covers the provider's retained window, not lifetime activity.",
+    "Clone activity includes repository maintenance and automation and is not counted as independent adoption.",
+    "The only repository contributor is the Petrichor maintainer account.",
+    "Both the repository URL and companion landing-page URL had zero live referring domains in Ahrefs on the capture date."
+  ]
+}

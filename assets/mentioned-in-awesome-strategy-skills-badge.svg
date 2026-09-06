@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="168" viewBox="0 0 720 168" role="img" aria-labelledby="title desc">
+  <title id="title">Mentioned in Awesome Strategy Skills</title>
+  <desc id="desc">A black and warm paper badge for listed projects.</desc>
+  <rect x="1" y="1" width="718" height="166" fill="#F6F4EF" stroke="#111111" stroke-width="2"/>
+  <rect x="24" y="24" width="120" height="120" fill="#111111"/>
+  <text x="84" y="101" text-anchor="middle" fill="#F6F4EF" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="50" font-weight="900">A</text>
+  <text x="176" y="67" fill="#4B4B4B" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3">MENTIONED IN</text>
+  <text x="176" y="104" fill="#111111" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="31" font-weight="900">AWESOME STRATEGY SKILLS</text>
+  <text x="176" y="132" fill="#4B4B4B" font-family="Arial, Helvetica, sans-serif" font-size="17">Open editorial index · petrichorgrowth.com</text>
+</svg>

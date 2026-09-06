@@ -1,0 +1,61 @@
+{
+  "report": "State of AI Strategy Skills, Q3 2026",
+  "as_of": "2026-09-06",
+  "catalog": {
+    "records": 62,
+    "skills": 54,
+    "collections": 8,
+    "categories": 9,
+    "publishers": 13,
+    "status": {
+      "reviewed": 37,
+      "petrichor_original": 19,
+      "collection": 6
+    },
+    "licenses": {
+      "MIT": 38,
+      "CC-BY-4.0": 20,
+      "Apache-2.0": 2,
+      "See source": 2
+    },
+    "skills_by_category": {
+      "executive-decisions": 14,
+      "positioning-competitive": 11,
+      "customer-market-intelligence": 9,
+      "go-to-market-growth": 6,
+      "measurement-experimentation": 5,
+      "product-portfolio": 4,
+      "pricing-monetization": 3,
+      "execution-systems": 2
+    }
+  },
+  "evaluation": {
+    "skills_evaluated": 9,
+    "skill_coverage_percent": 16.7,
+    "fixture": "positioning-decay-v1",
+    "mean_score": 18.0,
+    "median_score": 18,
+    "highest_score": 23,
+    "lowest_score": 13,
+    "independently_reviewed": false,
+    "scores": {
+      "relevancy-audit": 23,
+      "one-page-strategy": 22,
+      "competitor-profiling": 19,
+      "scenario-planning": 19,
+      "customer-research": 18,
+      "competitive-intelligence": 17,
+      "product-marketing": 16,
+      "positioning-craft": 15,
+      "strategy-frameworks": 13
+    }
+  },
+  "adoption_baseline": {
+    "repository_stars": 0,
+    "repository_forks": 1,
+    "repository_watchers": 0,
+    "retained_window_unique_views": 1,
+    "retained_window_unique_cloners": 29,
+    "qualified_interpretation": "Clone traffic includes repository maintenance and automation and is not treated as independent adoption."
+  }
+}
