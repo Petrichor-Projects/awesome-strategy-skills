@@ -14,7 +14,7 @@ No invitation below has been sent. The records are staged for personal outreach 
 | 2 | April Dunford | B2B positioning and category-choice expertise | [Official bio](https://www.aprildunford.com/about) | [Official contact](https://www.aprildunford.com/) | Ready, not sent |
 | 3 | Roger L. Martin | Strategy choice, integrative thinking, and Playing to Win | [Official site](https://rogerlmartin.com/) | Official speaking/contact route | Ready, not sent |
 | 4 | Gibson Biddle | Product strategy and former Netflix VP Product and Chegg CPO experience | [Official site](https://www.gibsonbiddle.com/) | `gbiddle616@gmail.com` | Ready, not sent |
-| 5 | Cindy Alvarez | Customer research, cognitive bias, and product leadership | [Official site](https://www.cindyalvarez.com/) | Official site contact route | Ready, not sent |
+| 5 | Cindy Alvarez | Customer research, cognitive bias, and product leadership | [Microsoft profile](https://blogs.microsoft.com/bayarea/2017/03/23/microsoft-yammers-cindy-alvarez-a-startup-veteran-paving-her-own-way/) | Official site contact route | Ready, not sent |
 
 ## Reviewer ask
 

@@ -30,5 +30,5 @@ We believe that framing HelioDesk as controlled, defensible resolution will rest
 - **Credible alternative:** Refresh the current position with stronger control proof if buyer tests show that “AI support automation” remains the clearest frame and governance acts only as a deal qualifier.
 
 ---
-*One Page Strategy framework compiled by [Richard Russell](https://www.linkedin.com/in/richardarussell/) (richardrussell.co),
-drawing from [Alex M H Smith](https://www.linkedin.com/in/alex-m-h-smith/), Richard Rumelt, and Lafley & [Roger Martin](https://www.linkedin.com/in/roger-martin-9916911a9/).*
+*One Page Strategy framework compiled by Richard Russell (richardrussell.co),
+drawing from Alex M H Smith, Richard Rumelt, and Lafley & Roger Martin.*
