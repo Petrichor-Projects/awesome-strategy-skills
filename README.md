@@ -31,6 +31,7 @@ Market research, positioning, product, go-to-market, pricing, growth, and execut
 - [Collections and discovery](#collections-and-discovery)
 - [How curation works](#how-curation-works)
 - [Open evaluations](#open-evaluations)
+- [Quarterly research](#quarterly-research)
 - [Measurement](#measurement)
 - [Safety](#safety)
 - [Contributing](#contributing)
@@ -192,13 +193,19 @@ We optimize for trust per entry, not total entry count. Inclusion can be reverse
 
 The catalog publishes fixtures, pinned sources, complete outputs, dimension-level evidence, and conflicts—not unexplained scores.
 
-The first [positioning strategy pilot](evaluation/runs/2026-08-22-positioning-pilot/REPORT.md) compares Relevancy Audit, Positioning Craft, and Product Marketing Context on the same fictional positioning-decay decision. Its scores are explicitly provisional pending an independent second reviewer.
+The [nine-skill positioning benchmark](evaluation/runs/2026-09-06-positioning-benchmark/REPORT.md) compares research, diagnostic, positioning, scenario, and strategy-document workflows on the same fictional positioning-decay decision. Pinned sources, native outputs, dimension evidence, task-fit limits, and Petrichor's author conflict are public.
 
-**[Read the finding](evaluation/runs/2026-08-22-positioning-pilot/REPORT.md)** · **[Inspect the method](evaluation/runs/2026-08-22-positioning-pilot/METHOD.md)** · **[Challenge the scores](evaluation/runs/2026-08-22-positioning-pilot/SCORES.md)**
+All scores remain provisional pending blind outside review. They describe performance on this fixture, not permanent quality or business outcomes.
+
+**[Read the finding](evaluation/runs/2026-09-06-positioning-benchmark/REPORT.md)** · **[Inspect the method](evaluation/runs/2026-09-06-positioning-benchmark/METHOD.md)** · **[Challenge the scores](evaluation/runs/2026-09-06-positioning-benchmark/SCORES.md)**
+
+## Quarterly research
+
+The inaugural [State of AI Strategy Skills, Q3 2026](research/state-of-ai-strategy-skills-2026-q3.md) analyzes 62 catalog records and nine evaluated skills. It publishes category and publisher concentration, license coverage, evaluation findings, unresolved safety gaps, adoption baseline, and Q4 tests beside a [machine-readable summary](research/data/2026-q3-summary.json).
 
 ## Measurement
 
-The repository has a public [measurement plan](docs/MEASUREMENT.md) and a pre-launch baseline. We track discovery, utility, authority, product interest, and commercial intent separately so stars are not mistaken for business impact.
+The repository has a public [measurement plan](docs/MEASUREMENT.md), an August setup baseline, and a [September pre-benchmark baseline](data/metrics/baseline-2026-09-06.json). We track discovery, utility, authority, product interest, and commercial intent separately so stars are not mistaken for business impact.
 
 ## Safety
 
@@ -214,7 +221,7 @@ See [SECURITY.md](SECURITY.md) for reporting and review practices.
 
 ## Contributing
 
-Know a strategy skill that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md), then [nominate it](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml) or open a pull request.
+Know a strategy skill that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md), then [nominate it](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml) or open a pull request. Independent reviewers can use the [blind review protocol](docs/INDEPENDENT-REVIEW.md). Listed authors may use the optional [mentioned assets](docs/BADGE.md).
 
 Maintainers, authors, and commercial sponsors may nominate their own work. Self-interest must be disclosed; inclusion cannot be purchased.
 

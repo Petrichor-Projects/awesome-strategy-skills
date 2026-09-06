@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-06
+
+- Expanded the positioning pilot into a nine-skill benchmark with six new native outputs and evidence records.
+- Published the inaugural State of AI Strategy Skills quarterly report and machine-readable summary.
+- Added a five-person independent reviewer slate, twelve-publisher outreach manifest, blind review issue form, and mentioned assets.
+- Captured repository, contributor, traffic, and referring-domain baselines without converting missing website analytics to zero.
+- Defined internal adoption and maintenance gates for later submission to broader Awesome indexes.
+
 All notable editorial and infrastructure changes are recorded here.
 
 ## 2026-09-04

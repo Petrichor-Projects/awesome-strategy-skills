@@ -1,0 +1,44 @@
+name: Submit an independent benchmark review
+description: Register a blind evidence review of the nine-skill positioning benchmark.
+title: "Independent review: "
+labels:
+  - evaluation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read the fixture and preserved outputs before opening Petrichor's scores. Reviews must cite evidence for all eight rubric dimensions.
+  - type: input
+    id: reviewer
+    attributes:
+      label: Reviewer name or public handle
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: Relationship disclosure
+      description: Disclose authorship, employment, investment, client, advisory, friendship, or financial relationships with Petrichor or any compared project. Write "none known" if none apply.
+    validations:
+      required: true
+  - type: checkboxes
+    id: blind
+    attributes:
+      label: Blind-pass confirmation
+      options:
+        - label: I completed my initial evidence record before reading Petrichor's scores.
+          required: true
+        - label: I understand my initial scores and any later changes will both remain visible.
+          required: true
+  - type: input
+    id: review
+    attributes:
+      label: Review record URL
+      description: Link to your pull request, fork, or public evidence record covering all nine outputs.
+    validations:
+      required: true
+  - type: textarea
+    id: dissent
+    attributes:
+      label: Material disagreement or critical failure
+      description: Name any result that should block or change the benchmark conclusion.

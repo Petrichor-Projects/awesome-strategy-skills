@@ -12,7 +12,9 @@ Awesome Strategy Skills is an open, evidence-led index for people who need AI ag
 
 - 62 structured catalog records across nine outcome categories.
 - 18 Petrichor Resilience Stack frameworks with maintainer conflict disclosed.
-- A public evaluation rubric, reproducible fixture, pinned sources, complete outputs, and provisional evidence-level scores.
+- A public evaluation rubric, one reproducible fixture, nine pinned skills, complete outputs, and provisional evidence-level scores.
+- The inaugural State of AI Strategy Skills report with a machine-readable Q3 summary.
+- Search and filter behavior, email-update intent, and skill-level clicks on the companion hub.
 - Automated catalog, Markdown, and link validation.
 - A public measurement plan and pre-distribution baseline.
 
@@ -40,7 +42,7 @@ AI can produce strategic language long before it produces a defensible decision.
 
 Awesome Strategy Skills is Petrichor Projects' open index of agent workflows built for the harder job: evidence discipline, explicit trade-offs, pressure testing, and usable decision artifacts.
 
-The catalog includes 62 structured records across nine categories, the full 18-skill Resilience Stack, and an open positioning pilot with pinned sources and complete outputs.
+The catalog includes 62 structured records across nine categories, the full 18-skill Resilience Stack, and a nine-skill positioning benchmark with pinned sources and complete outputs.
 
 Browse the catalog or nominate a skill we should review:
 

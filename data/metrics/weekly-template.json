@@ -1,0 +1,36 @@
+{
+  "captured_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "period": "YYYY-MM-DD_to_YYYY-MM-DD",
+  "repository_counts": {
+    "stars": null,
+    "forks": null,
+    "watchers": null,
+    "contributors_total": null,
+    "contributors_independent_of_petrichor": null,
+    "traffic_unique_visitors": null,
+    "unique_cloners": null
+  },
+  "authority_counts": {
+    "repository_live_referring_domains": null,
+    "landing_page_live_referring_domains": null,
+    "completed_independent_reviews": null,
+    "verified_contributor_badge_placements": null
+  },
+  "website_funnel": {
+    "awesome_strategy_skills_visits": null,
+    "catalog_clicks": null,
+    "email_capture_starts": null,
+    "resilience_stack_clicks": null,
+    "diagnostic_starts": null,
+    "diagnostic_completions": null,
+    "qualified_inquiries": null
+  },
+  "conversion_rates": {
+    "landing_to_catalog": null,
+    "landing_to_email_capture": null,
+    "landing_to_diagnostic_start": null,
+    "diagnostic_completion": null,
+    "landing_to_qualified_inquiry": null
+  },
+  "notes": []
+}
