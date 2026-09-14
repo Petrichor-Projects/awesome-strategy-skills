@@ -169,6 +169,7 @@ Collections help you search beyond this editorial shortlist. Their inclusion doe
 - [Awesome PM Skills](https://github.com/menkesu/awesome-pm-skills) - Product-management skills spanning discovery, strategy, metrics, influence, and execution. **Collection · MIT**.
 - [Claude Skills](https://github.com/alirezarezvani/claude-skills) - Broad business, executive, commercial, engineering, and operational skill library. **Collection · MIT**.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - Marketing skill library covering research, positioning, GTM, acquisition, monetization, and retention. **Collection · MIT**.
+- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Marketing skill collection covering evidence-led SEO, GEO, paid media, analytics, and cross-channel account workflows. **Collection · MIT**.
 - [Petrichor Marketing Skills](https://github.com/petrichorprojects/marketingskills) - Petrichor's public fork of the Marketing Skills library. **Collection · MIT**.
 - [Resilience Stack](https://github.com/Petrichor-Projects/resilience-stack) - Petrichor's 18 evidence-demanding strategy diagnostics and workshop frameworks. **Collection · CC BY 4.0**.
 
