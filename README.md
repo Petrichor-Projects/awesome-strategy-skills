@@ -105,13 +105,16 @@ Status labels mean:
 - [Competitor Profiling](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-profiling) - Produces structured, source-traceable competitor profiles from live market evidence. **Reviewed · MIT**.
 - [Continuous Discovery](https://github.com/menkesu/awesome-pm-skills/tree/main/continuous-discovery) - Establishes weekly customer contact, opportunity mapping, and assumption testing. **Reviewed · MIT**.
 - [Customer Research](https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research) - Extracts jobs, pains, triggers, objections, and customer language from primary and public sources. **Reviewed · MIT**.
+- [Environmental Radar](https://github.com/eterdis/strategy-skills/tree/main/environmental-radar) - Runs a continuous PESTEL scan of external forces prioritized by impact, speed, and reversibility, then maintains a watch list with concrete monitoring triggers. **Reviewed · CC BY 4.0**.
 - [Jobs-to-be-Done Building](https://github.com/menkesu/awesome-pm-skills/tree/main/jtbd-building) - Uses push, pull, anxiety, and habit forces to uncover the progress customers seek. **Reviewed · MIT**.
 
 ### Positioning and competitive strategy
 
+- [Playing to Win](https://github.com/eterdis/strategy-skills/tree/main/playing-to-win) - Builds or pressure-tests a five-choice strategy cascade spanning winning aspiration, where to play, and how to win. **Reviewed · CC BY 4.0**.
 - [Positioning Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/positioning-craft) - Applies an alternatives-first positioning process to define category, value, and best-fit customers. **Reviewed · MIT**.
 - [Product Marketing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing) - Builds shared positioning, audience, competitive, and messaging context for downstream marketing work. **Reviewed · MIT**.
 - [Strategy Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/strategy-frameworks) - Structures where-to-play and how-to-win choices using established strategy frameworks. **Reviewed · MIT**.
+- [VRIO Analysis](https://github.com/eterdis/strategy-skills/tree/main/vrio-analysis) - Tests resources for value, rarity, inimitability, and organization, then assesses dynamic capabilities to see whether an advantage will hold. **Reviewed · CC BY 4.0**.
 
 ### Product and portfolio strategy
 
@@ -127,6 +130,7 @@ Status labels mean:
 - [Market Entry](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/market-entry) - Tests market size, advantage transfer, entry mode, economics, and stopping criteria before committing to expansion. **Reviewed · MIT**.
 - [Marketing Loops](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-loops) - Replaces isolated campaigns with compounding acquisition and distribution systems. **Reviewed · MIT**.
 - [Marketing Plan](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-plan) - Produces an executable, resource-aware GTM roadmap across the customer lifecycle. **Reviewed · MIT**.
+- [Strategic Alliances](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/strategic-alliances) - Structures partner, build, or buy choices and the exclusivity, economics, and exit terms that decide whether an alliance produces. **Reviewed · MIT**.
 
 ### Pricing and monetization
 
@@ -136,12 +140,15 @@ Status labels mean:
 ### Executive decisions and operating systems
 
 - [Bull/Bear Scenario Analysis](https://github.com/daloopa/investing/tree/main/.claude/skills/bull-bear) - Builds cited bull, base, and bear investment cases from reported fundamentals, KPIs, filings, valuation assumptions, and current market expectations. **Reviewed · Apache 2.0**.
+- [Capital Allocation](https://github.com/daloopa/investing/tree/main/.claude/skills/capital-allocation) - Analyzes buybacks, dividends, and shareholder yield from reported cash flow and market data to judge how a company deploys capital. **Reviewed · Apache 2.0**.
 - [CEO Advisor](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ceo-advisor) - Supports executive choices across vision, capital allocation, culture, boards, and investors. **Reviewed · MIT**.
 - [Change Management](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/change-management) - Adapts ADKAR to strategy pivots, reorganizations, process changes, and rollout resistance. **Reviewed · MIT**.
+- [Chief Strategy Officer](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/chief-strategy-officer) - Frames multi-year where-to-play, build-buy-partner, and cross-business capital-allocation choices under uncertainty. **Reviewed · MIT**.
 - [Company OS](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/company-os) - Compares and implements operating rhythms, accountability systems, scorecards, and issue resolution. **Reviewed · MIT**.
 - [Decision Logger](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/decision-logger) - Separates raw board discussion from approved decisions and tracks commitments over time. **Reviewed · MIT**.
 - [Mergers and Acquisitions](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/mergers-and-acquisitions) - Starts with an acquisition thesis, sets valuation walkaways, uses diligence to falsify the case, and plans integration before close. **Reviewed · MIT**.
 - [One Page Strategy](https://github.com/olgasafonova/one-page-strategy/tree/main/one-page-strategy) - Creates or audits a compact facts-problem-idea-solution narrative with section gates, falsifiability checks, and explicit exclusions. **Reviewed · MIT**.
+- [Pre-Mortem](https://github.com/eterdis/strategy-skills/tree/main/pre-mortem) - Stress-tests a major commitment by imagining it has already failed, mapping failure modes, and defining observable early-warning triggers. **Reviewed · CC BY 4.0**.
 - [Scenario Planning](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/scenario-planning) - Converts load-bearing uncertainties into coherent scenarios, no-regret moves, contingent options, and owned early-warning indicators. **Reviewed · MIT**.
 - [Scenario War Room](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/scenario-war-room) - Models cascading, multi-variable risk across finance, revenue, product, people, and operations. **Reviewed · MIT**.
 - [Strategic Alignment](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/strategic-alignment) - Finds broken strategy cascades, conflicting goals, silo optimization, and orphan work. **Reviewed · MIT**.
