@@ -13,7 +13,7 @@
 
 Market research, positioning, product, go-to-market, pricing, growth, and executive operating systems—reviewed for evidence discipline, decision utility, and maintenance. Not a scrape. Not a prompt dump.
 
-**[Browse by outcome](#browse-by-outcome)** · **[Run the Resilience Stack](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills)** · **[Nominate a skill](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml)**
+**[Browse the catalog](https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html)** · **[Browse by outcome](#browse-by-outcome)** · **[Run the Resilience Stack](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills)** · **[Nominate a skill](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml)**
 
 ## Contents
 
@@ -92,6 +92,8 @@ The five flagship kits include evaluation cases, worked examples, scoring rubric
 **[Explore the repository](https://github.com/Petrichor-Projects/resilience-stack)** · **[Take a three-minute diagnostic](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=featured)**
 
 ## Browse by outcome
+
+Prefer a visual, filterable view? Use the **[catalog browse page](https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html)** — filter by outcome and status, search by name, publisher, or license.
 
 Status labels mean:
 
