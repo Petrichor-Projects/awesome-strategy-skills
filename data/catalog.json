@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "maintainer": "Petrichor Projects",
   "entries": [
     {
@@ -991,6 +991,118 @@
       "description": "Petrichor's 18 evidence-demanding strategy diagnostics and workshop frameworks.",
       "why_included": "Serves as the list's reference implementation for adversarial, evidence-based strategy skills.",
       "conflict": "Created and maintained by Petrichor Projects."
+    },
+    {
+      "id": "market-sizing",
+      "name": "Market Sizing",
+      "url": "https://github.com/OneWave-AI/claude-skills/tree/main/market-sizing",
+      "publisher": "OneWave AI",
+      "kind": "skill",
+      "category": "customer-market-intelligence",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Builds an investor-grade TAM/SAM/SOM estimate from top-down and bottom-up data, triangulated with cited sources and sensitivity ranges.",
+      "why_included": "Shows the work — methodology, cited sources, flagged assumptions, and sensitivity bands — instead of a single unsupported market number.",
+      "conflict": "none"
+    },
+    {
+      "id": "blue-ocean-strategy",
+      "name": "Blue Ocean Strategy",
+      "url": "https://github.com/getagentseal/founder-playbook/tree/main/blue-ocean-strategy",
+      "publisher": "getagentseal",
+      "kind": "skill",
+      "category": "positioning-competitive",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Applies the Blue Ocean toolkit (Strategy Canvas, ERRC, Six Paths, Buyer Utility Map) to escape commoditized competition.",
+      "why_included": "Pairs the frameworks with explicit selection-bias caveats and inline decline notes on the book's iconic cases.",
+      "conflict": "none"
+    },
+    {
+      "id": "porters-five-forces",
+      "name": "Porter's Five Forces",
+      "url": "https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/porters-five-forces",
+      "publisher": "Pawel Huryn",
+      "kind": "skill",
+      "category": "positioning-competitive",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Assesses industry attractiveness across rivalry, supplier power, buyer power, substitutes, and new entrants.",
+      "why_included": "Structures a classic competitive-forces read into evidence-tied conditions rather than a generic SWOT.",
+      "conflict": "none"
+    },
+    {
+      "id": "product-strategy",
+      "name": "Product Strategy",
+      "url": "https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy",
+      "publisher": "Pawel Huryn",
+      "kind": "skill",
+      "category": "product-portfolio",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Builds a product strategy across a nine-section canvas covering vision, segments, costs, value, trade-offs, metrics, growth, capabilities, and defensibility.",
+      "why_included": "Forces trade-offs and defensibility into the plan instead of a vision statement plus a feature list.",
+      "conflict": "none"
+    },
+    {
+      "id": "charlie-cfo",
+      "name": "Charlie (AI CFO)",
+      "url": "https://github.com/EveryInc/charlie-cfo-skill",
+      "publisher": "Every",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Frames cash, runway, unit economics, hiring ROI, and capital-allocation decisions for bootstrapped companies.",
+      "why_included": "Anchors decisions to explicit thresholds (LTV:CAC, CAC payback, runway targets) rather than generic financial advice.",
+      "conflict": "none"
+    },
+    {
+      "id": "strategy-red-team",
+      "name": "Strategy Red-Team",
+      "url": "https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/strategy-red-team",
+      "publisher": "Pawel Huryn",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Red-teams a strategy, roadmap, or PRD by attacking its load-bearing assumptions before commitment.",
+      "why_included": "Ranks failure modes by impact, likelihood, and cheapness-to-test, and returns kill criteria and the cheapest test for each.",
+      "conflict": "none"
+    },
+    {
+      "id": "37signals-way",
+      "name": "37signals Way",
+      "url": "https://github.com/wondelai/skills/tree/main/plugins/wondelai-skills/skills/37signals-way",
+      "publisher": "wondelai",
+      "kind": "skill",
+      "category": "execution-systems",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Shapes work, bets on fixed six-week cycles, and cuts scope using the build-less philosophy from Getting Real, Rework, and Shape Up.",
+      "why_included": "Turns \"ship faster\" into a bounded system of appetite, shaping, betting, and saying no by default.",
+      "conflict": "none"
+    },
+    {
+      "id": "pm-skills-marketplace",
+      "name": "PM Skills Marketplace",
+      "url": "https://github.com/phuryn/pm-skills",
+      "publisher": "Pawel Huryn",
+      "kind": "collection",
+      "category": "collections-discovery",
+      "status": "collection",
+      "license": "MIT",
+      "last_reviewed": "2026-09-17",
+      "description": "Large product-management library spanning discovery, strategy, execution, launch, and growth.",
+      "why_included": "Deep source of individually strong strategy skills, several reviewed here; broad discovery beyond this list's shortlist.",
+      "conflict": "none"
     }
   ]
 }
