@@ -107,10 +107,13 @@ Status labels mean:
 - [Customer Research](https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research) - Extracts jobs, pains, triggers, objections, and customer language from primary and public sources. **Reviewed · MIT**.
 - [Environmental Radar](https://github.com/eterdis/strategy-skills/tree/main/environmental-radar) - Runs a continuous PESTEL scan of external forces prioritized by impact, speed, and reversibility, then maintains a watch list with concrete monitoring triggers. **Reviewed · CC BY 4.0**.
 - [Jobs-to-be-Done Building](https://github.com/menkesu/awesome-pm-skills/tree/main/jtbd-building) - Uses push, pull, anxiety, and habit forces to uncover the progress customers seek. **Reviewed · MIT**.
+- [Market Sizing](https://github.com/OneWave-AI/claude-skills/tree/main/market-sizing) - Builds an investor-grade TAM/SAM/SOM estimate from top-down and bottom-up data, triangulated with cited sources and sensitivity ranges. **Reviewed · MIT**.
 
 ### Positioning and competitive strategy
 
+- [Blue Ocean Strategy](https://github.com/getagentseal/founder-playbook/tree/main/blue-ocean-strategy) - Applies the Blue Ocean toolkit (Strategy Canvas, ERRC, Six Paths, Buyer Utility Map) to escape commoditized competition, with explicit selection-bias caveats. **Reviewed · MIT**.
 - [Playing to Win](https://github.com/eterdis/strategy-skills/tree/main/playing-to-win) - Builds or pressure-tests a five-choice strategy cascade spanning winning aspiration, where to play, and how to win. **Reviewed · CC BY 4.0**.
+- [Porter's Five Forces](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/porters-five-forces) - Assesses industry attractiveness across rivalry, supplier power, buyer power, substitutes, and new entrants. **Reviewed · MIT**.
 - [Positioning Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/positioning-craft) - Applies an alternatives-first positioning process to define category, value, and best-fit customers. **Reviewed · MIT**.
 - [Product Marketing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing) - Builds shared positioning, audience, competitive, and messaging context for downstream marketing work. **Reviewed · MIT**.
 - [Strategy Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/strategy-frameworks) - Structures where-to-play and how-to-win choices using established strategy frameworks. **Reviewed · MIT**.
@@ -120,6 +123,7 @@ Status labels mean:
 
 - [Portfolio Strategy](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/portfolio-strategy) - Forces business-unit investment, harvest, and exit choices through attractiveness, right-to-win, and marginal-return tests. **Reviewed · MIT**.
 - [Prioritization Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/prioritization-craft) - Makes roadmap trade-offs explicit with RICE, ICE, Kano, and value-versus-effort models. **Reviewed · MIT**.
+- [Product Strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy) - Builds a product strategy across a nine-section canvas covering vision, segments, costs, value, trade-offs, metrics, growth, capabilities, and defensibility. **Reviewed · MIT**.
 - [Strategic PM](https://github.com/menkesu/awesome-pm-skills/tree/main/strategic-pm) - Connects product activity to outcomes, company choices, and a longer strategic horizon. **Reviewed · MIT**.
 - [Wardley Map](https://github.com/eterdis/strategy-skills/tree/main/wardley-map) - Maps user needs, component dependencies, evolution, inertia, and observable triggers to inform build, buy, and investment choices. **Reviewed · CC BY 4.0**.
 
@@ -143,6 +147,7 @@ Status labels mean:
 - [Capital Allocation](https://github.com/daloopa/investing/tree/main/.claude/skills/capital-allocation) - Analyzes buybacks, dividends, and shareholder yield from reported cash flow and market data to judge how a company deploys capital. **Reviewed · Apache 2.0**.
 - [CEO Advisor](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ceo-advisor) - Supports executive choices across vision, capital allocation, culture, boards, and investors. **Reviewed · MIT**.
 - [Change Management](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/change-management) - Adapts ADKAR to strategy pivots, reorganizations, process changes, and rollout resistance. **Reviewed · MIT**.
+- [Charlie (AI CFO)](https://github.com/EveryInc/charlie-cfo-skill) - Frames cash, runway, unit economics, hiring ROI, and capital-allocation decisions for bootstrapped companies against explicit thresholds. **Reviewed · MIT**.
 - [Chief Strategy Officer](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/chief-strategy-officer) - Frames multi-year where-to-play, build-buy-partner, and cross-business capital-allocation choices under uncertainty. **Reviewed · MIT**.
 - [Company OS](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/company-os) - Compares and implements operating rhythms, accountability systems, scorecards, and issue resolution. **Reviewed · MIT**.
 - [Decision Logger](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/decision-logger) - Separates raw board discussion from approved decisions and tracks commitments over time. **Reviewed · MIT**.
@@ -152,6 +157,7 @@ Status labels mean:
 - [Scenario Planning](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/scenario-planning) - Converts load-bearing uncertainties into coherent scenarios, no-regret moves, contingent options, and owned early-warning indicators. **Reviewed · MIT**.
 - [Scenario War Room](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/scenario-war-room) - Models cascading, multi-variable risk across finance, revenue, product, people, and operations. **Reviewed · MIT**.
 - [Strategic Alignment](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/strategic-alignment) - Finds broken strategy cascades, conflicting goals, silo optimization, and orphan work. **Reviewed · MIT**.
+- [Strategy Red-Team](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/strategy-red-team) - Attacks a strategy, roadmap, or PRD's load-bearing assumptions and returns kill criteria and the cheapest test for each. **Reviewed · MIT**.
 
 ### Measurement and experimentation
 
@@ -163,6 +169,7 @@ Status labels mean:
 
 ### Execution systems
 
+- [37signals Way](https://github.com/wondelai/skills/tree/main/plugins/wondelai-skills/skills/37signals-way) - Shapes work, bets on fixed six-week cycles, and cuts scope using the build-less philosophy from Getting Real, Rework, and Shape Up. **Reviewed · MIT**.
 - [Operating Cadence](https://github.com/cbrock84/headcount/tree/main/plugins/operations/skills/operating-cadence) - Designs weekly, monthly, and quarterly decision rhythms with one metric source, named owners, escalation thresholds, and pruning rules. **Reviewed · MIT**.
 - [Recursive Decision Ledger](https://github.com/affaan-m/ECC/tree/main/skills/recursive-decision-ledger) - Records bounded repeated trials, fresh evidence, candidate marks, replay gates, drift, and human approval before live promotion. **Reviewed · MIT**.
 - [Superpowers](https://github.com/obra/superpowers) - Adds disciplined brainstorming, planning, execution, verification, and review workflows to coding agents. **Reviewed · MIT**.
@@ -178,6 +185,7 @@ Collections help you search beyond this editorial shortlist. Their inclusion doe
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - Marketing skill library covering research, positioning, GTM, acquisition, monetization, and retention. **Collection · MIT**.
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Marketing skill collection covering evidence-led SEO, GEO, paid media, analytics, and cross-channel account workflows. **Collection · MIT**.
 - [Petrichor Marketing Skills](https://github.com/petrichorprojects/marketingskills) - Petrichor's public fork of the Marketing Skills library. **Collection · MIT**.
+- [PM Skills Marketplace](https://github.com/phuryn/pm-skills) - Large product-management library spanning discovery, strategy, execution, launch, and growth. **Collection · MIT**.
 - [Resilience Stack](https://github.com/Petrichor-Projects/resilience-stack) - Petrichor's 18 evidence-demanding strategy diagnostics and workshop frameworks. **Collection · CC BY 4.0**.
 
 ## How curation works
