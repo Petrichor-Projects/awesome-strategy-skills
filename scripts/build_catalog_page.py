@@ -140,8 +140,8 @@ footer a{color:var(--ink);text-decoration:underline;text-underline-offset:2px}
 <body>
 <div class="wrap">
 <header class="top">
-  <p class="eyebrow">Awesome Strategy Skills</p>
-  <h1>Browse the catalog</h1>
+  <p class="eyebrow">The Catalog</p>
+  <h1>Awesome Strategy Skills</h1>
   <p class="lede">Curated AI-agent skills for decisions that survive contact with reality. Reviewed for evidence discipline, decision utility, and maintenance — not scraped, not a prompt dump.</p>
   <div class="stats">
     <div class="stat"><div class="n">__N_SKILLS__</div><div class="l">Skills</div></div>
