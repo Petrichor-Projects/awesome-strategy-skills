@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-09-17",
+  "updated": "2026-09-19",
   "maintainer": "Petrichor Projects",
   "entries": [
     {
@@ -1102,6 +1102,34 @@
       "last_reviewed": "2026-09-17",
       "description": "Large product-management library spanning discovery, strategy, execution, launch, and growth.",
       "why_included": "Deep source of individually strong strategy skills, several reviewed here; broad discovery beyond this list's shortlist.",
+      "conflict": "none"
+    },
+    {
+      "id": "go-to-market-cmo",
+      "name": "Go-to-Market (CMO Methodology)",
+      "url": "https://github.com/magnus919/agent-skills/tree/main/go-to-market",
+      "publisher": "magnus919",
+      "kind": "skill",
+      "category": "go-to-market-growth",
+      "status": "reviewed",
+      "license": "MIT",
+      "last_reviewed": "2026-09-19",
+      "description": "Plans go-to-market across positioning, acquisition channels, growth economics, market entry, and governed AI-assisted acquisition experiments.",
+      "why_included": "Ships a Dunford positioning workflow, CAC/LTV growth models, explicit non-use exclusions, and a committed evaluation set.",
+      "conflict": "none"
+    },
+    {
+      "id": "go-to-market-motions",
+      "name": "Go-to-Market Motions",
+      "url": "https://github.com/omer-metin/skills-for-antigravity/tree/main/skills/go-to-market",
+      "publisher": "Omer Metin",
+      "kind": "skill",
+      "category": "go-to-market-growth",
+      "status": "reviewed",
+      "license": "Apache-2.0",
+      "last_reviewed": "2026-09-19",
+      "description": "Selects a product-led, sales-led, or community-led motion and sequences launch and phase transitions for a specific product.",
+      "why_included": "Grounds recommendations in reference patterns, an explicit failure-mode catalog, and validation constraints rather than generic GTM advice.",
       "conflict": "none"
     }
   ]
