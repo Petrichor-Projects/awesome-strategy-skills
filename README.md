@@ -132,6 +132,8 @@ Status labels mean:
 ### Go-to-market and growth
 
 - [Content Strategy](https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy) - Designs searchable and shareable content pillars around business and audience needs. **Reviewed · MIT**.
+- [Go-to-Market (CMO Methodology)](https://github.com/magnus919/agent-skills/tree/main/go-to-market) - Plans go-to-market across positioning, acquisition channels, growth economics, market entry, and governed AI-assisted acquisition experiments. **Reviewed · MIT**.
+- [Go-to-Market Motions](https://github.com/omer-metin/skills-for-antigravity/tree/main/skills/go-to-market) - Selects a product-led, sales-led, or community-led motion and sequences launch and phase transitions for a specific product. **Reviewed · Apache 2.0**.
 - [Launch](https://github.com/coreyhaines31/marketingskills/tree/main/skills/launch) - Plans coordinated product and feature launches across audiences, channels, and phases. **Reviewed · MIT**.
 - [Market Entry](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/market-entry) - Tests market size, advantage transfer, entry mode, economics, and stopping criteria before committing to expansion. **Reviewed · MIT**.
 - [Marketing Loops](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-loops) - Replaces isolated campaigns with compounding acquisition and distribution systems. **Reviewed · MIT**.
