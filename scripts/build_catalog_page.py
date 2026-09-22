@@ -50,6 +50,20 @@ TEMPLATE = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Awesome Strategy Skills — browse the catalog</title>
 <meta name="description" content="Browse the curated Awesome Strategy Skills catalog by outcome, status, publisher, and license.">
+<link rel="canonical" href="https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Awesome Strategy Skills">
+<meta property="og:url" content="https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html">
+<meta property="og:title" content="Awesome Strategy Skills — browse the catalog">
+<meta property="og:description" content="Browse the curated Awesome Strategy Skills catalog by outcome, status, publisher, and license.">
+<meta property="og:image" content="https://petrichor-projects.github.io/awesome-strategy-skills/assets/social-preview.png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta property="og:image:alt" content="Awesome Strategy Skills catalog">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Awesome Strategy Skills — browse the catalog">
+<meta name="twitter:description" content="Browse the curated Awesome Strategy Skills catalog by outcome, status, publisher, and license.">
+<meta name="twitter:image" content="https://petrichor-projects.github.io/awesome-strategy-skills/assets/social-preview.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Host+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
