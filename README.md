@@ -2,7 +2,6 @@
 
 <!--lint disable awesome-github awesome-list-item awesome-toc double-link table-cell-padding table-pipe-alignment-->
 
-[![Quality](https://github.com/Petrichor-Projects/awesome-strategy-skills/actions/workflows/quality.yml/badge.svg)](https://github.com/Petrichor-Projects/awesome-strategy-skills/actions/workflows/quality.yml)
 [![Last update](https://img.shields.io/github/last-commit/Petrichor-Projects/awesome-strategy-skills?label=last%20review)](https://github.com/Petrichor-Projects/awesome-strategy-skills/commits/main)
 [![Catalog](https://img.shields.io/badge/catalog-structured-0B5D5B)](data/catalog.json)
 [![License: CC0](https://img.shields.io/badge/list-CC0-8A4B32.svg)](LICENSE)
