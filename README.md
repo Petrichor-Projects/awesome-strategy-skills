@@ -30,13 +30,26 @@ Market research, positioning, product, go-to-market, pricing, growth, and execut
 
 ### [Resilience Stack](https://github.com/Petrichor-Projects/resilience-stack)
 
-**18 evidence-demanding strategy frameworks for positioning that holds under pressure.** Each skill converts a Petrichor Projects workshop into an executable agent workflow with explicit prerequisites, adversarial questions, scored diagnostics, and concrete deliverables. The repository holds all 18; five flagship kits include evaluation cases, worked examples, scoring rubrics, board-brief formatters, case studies, and launch assets.
+**18 evidence-demanding strategy frameworks for positioning that holds under pressure.** Each skill converts a Petrichor Projects workshop into an executable agent workflow with explicit prerequisites, adversarial questions, scored diagnostics, and concrete deliverables. The flagship kits include evaluation cases, worked examples, scoring rubrics, board-brief formatters, case studies, and launch assets.
 
+- [Board Narrative Alignment](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/board-narrative-alignment) - Tests whether board, company, and market narratives are coherent.
+- [Brand as Memory System](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-as-memory-system) - Maps how a brand is stored in customer memory.
+- [Brand Permission Boundaries](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-permission-boundaries) - Maps what the market is willing to let a brand become.
+- [Category Creation Pressure Test](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/category-creation-pressure-test) - Tests whether a category claim has viable market foundations.
+- [Competitive Blind Spot Mapping](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/competitive-blind-spot-mapping) - Finds competitive realities a company is structurally likely to miss.
 - [Competitive Narrative Stress Test](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/competitive-narrative-stress-test) - Tests whether a competitive story survives adversarial scrutiny.
-- [Investor Story Forensics](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics) - Cross-examines investor claims against the evidence diligence will demand.
+- [Customer Truth Extraction](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/customer-truth-extraction) - Separates customer belief from internal customer assumptions.
+- [Exit Narrative Architecture](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/exit-narrative-architecture) - Pressure-tests a company story through an acquirer's lens.
+- [False Familiarity](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/false-familiarity) - Distinguishes brand recognition from meaningful market knowledge.
+- [Investor Story Forensics](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics) - Cross-examines an investor narrative against diligence evidence.
+- [Legacy Brand Relevance Reset](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/legacy-brand-relevance-reset) - Tests when brand heritage becomes a strategic constraint.
+- [Positioning Under Pressure](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/positioning-under-pressure) - Tests whether a position holds when the market shifts.
 - [Pricing Authority Diagnostic](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/pricing-authority-diagnostic) - Finds where pricing power is eroding before lagging metrics expose it.
+- [Reality Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/diagnostic/reality-audit) - Separates demonstrable facts from internal belief.
 - [Relevancy Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/relevancy-audit) - Detects when positioning is solving yesterday's problem.
-- [Revenue Story Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/revenue-story-audit) - Reconciles the revenue story with the mechanics beneath it.
+- [Revenue Story Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/revenue-story-audit) - Reconciles the revenue narrative with the mechanics beneath it.
+- [Signal vs. Noise Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/signal-vs-noise-audit) - Determines which market signals deserve a response.
+- [TAM Lie Detector](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/tam-lie-detector) - Tests whether an addressable-market claim is evidenced or rounded up.
 
 > **Maintainer disclosure:** Resilience Stack is created and maintained by Petrichor Projects, the maintainer of this list. It earns featured placement because it is the list's reference implementation for evidence discipline and adversarial strategy work. It is evaluated under the same published criteria as external entries. The stack is licensed CC BY 4.0.
 
