@@ -1,23 +1,13 @@
 # Awesome Strategy Skills [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-<!--lint disable awesome-github awesome-list-item awesome-toc double-link table-cell-padding table-pipe-alignment-->
-
-[![Quality](https://github.com/Petrichor-Projects/awesome-strategy-skills/actions/workflows/quality.yml/badge.svg)](https://github.com/Petrichor-Projects/awesome-strategy-skills/actions/workflows/quality.yml)
-[![Last update](https://img.shields.io/github/last-commit/Petrichor-Projects/awesome-strategy-skills?label=last%20review)](https://github.com/Petrichor-Projects/awesome-strategy-skills/commits/main)
-[![Catalog](https://img.shields.io/badge/catalog-structured-0B5D5B)](data/catalog.json)
-[![License: CC0](https://img.shields.io/badge/list-CC0-8A4B32.svg)](LICENSE)
-
 ![Awesome Strategy Skills: curated AI-agent skills for decisions that survive contact with reality.](assets/awesome-strategy-skills.svg)
 
 > Curated AI-agent skills for decisions that survive contact with reality.
 
-Market research, positioning, product, go-to-market, pricing, growth, and executive operating systems—reviewed for evidence discipline, decision utility, and maintenance. Not a scrape. Not a prompt dump.
-
-**[Browse the catalog](https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html)** · **[Browse by outcome](#browse-by-outcome)** · **[Run the Resilience Stack](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills)** · **[Nominate a skill](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml)**
+Market research, positioning, product, go-to-market, pricing, growth, and executive operating systems, reviewed for evidence discipline, decision utility, and maintenance. Not a scrape. Not a prompt dump.
 
 ## Contents
 
-- [Start here](#start-here)
 - [Featured Petrichor original](#featured-petrichor-original)
 - [Browse by outcome](#browse-by-outcome)
   - [Customer and market intelligence](#customer-and-market-intelligence)
@@ -34,72 +24,42 @@ Market research, positioning, product, go-to-market, pricing, growth, and execut
 - [Quarterly research](#quarterly-research)
 - [Measurement](#measurement)
 - [Safety](#safety)
-- [Contributing](#contributing)
 - [About Petrichor](#about-petrichor)
-
-## Start here
-
-| If you are… | Start with… | Why |
-|---|---|---|
-| A founder under pressure | [Skill Compass](https://github.com/Petrichor-Projects/resilience-stack/tree/main/meta-skills/skill-compass), [Reality Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/diagnostic/reality-audit), and [Scenario War Room](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/scenario-war-room) | Select the right diagnostic, separate facts from internal belief, then model compound risk. |
-| A positioning or brand lead | [Relevancy Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/relevancy-audit), [Positioning Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/positioning-craft), and [Customer Research](https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research) | Connect current market truth to a differentiated position. |
-| A product leader | [Strategy Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/strategy-frameworks), [Continuous Discovery](https://github.com/menkesu/awesome-pm-skills/tree/main/continuous-discovery), and [Prioritization Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/prioritization-craft) | Move from evidence to choices to an executable product portfolio. |
-| A GTM leader | [Marketing Plan](https://github.com/coreyhaines31/marketingskills/tree/main/skills/marketing-plan), [Competitive Intelligence](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/competitive-intel), and [Pricing Authority Diagnostic](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/pricing-authority-diagnostic) | Join market evidence, coordinated execution, and monetization. |
-| A board or investor-facing leader | [Investor Story Forensics](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics), [Board Narrative Alignment](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/board-narrative-alignment), and [CEO Advisor](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/ceo-advisor) | Pressure-test claims before stakeholders or diligence teams do it for you. |
 
 ## Featured Petrichor original
 
 ### [Resilience Stack](https://github.com/Petrichor-Projects/resilience-stack)
 
-**18 evidence-demanding strategy frameworks for positioning that holds under pressure.** Each skill converts a Petrichor Projects workshop into an executable agent workflow with explicit prerequisites, adversarial questions, scored diagnostics, and concrete deliverables.
+**18 evidence-demanding strategy frameworks for positioning that holds under pressure.** Each skill converts a Petrichor Projects workshop into an executable agent workflow with explicit prerequisites, adversarial questions, scored diagnostics, and concrete deliverables. The flagship kits include evaluation cases, worked examples, scoring rubrics, board-brief formatters, case studies, and launch assets.
 
-The five flagship kits include evaluation cases, worked examples, scoring rubrics, board-brief formatters, case studies, and launch assets:
-
+- [Board Narrative Alignment](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/board-narrative-alignment) - Tests whether board, company, and market narratives are coherent.
+- [Brand as Memory System](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-as-memory-system) - Maps how a brand is stored in customer memory.
+- [Brand Permission Boundaries](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-permission-boundaries) - Maps what the market is willing to let a brand become.
+- [Category Creation Pressure Test](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/category-creation-pressure-test) - Tests whether a category claim has viable market foundations.
+- [Competitive Blind Spot Mapping](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/competitive-blind-spot-mapping) - Finds competitive realities a company is structurally likely to miss.
 - [Competitive Narrative Stress Test](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/competitive-narrative-stress-test) - Tests whether a competitive story survives adversarial scrutiny.
-- [Investor Story Forensics](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics) - Cross-examines investor claims against the evidence diligence will demand.
+- [Customer Truth Extraction](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/customer-truth-extraction) - Separates customer belief from internal customer assumptions.
+- [Exit Narrative Architecture](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/exit-narrative-architecture) - Pressure-tests a company story through an acquirer's lens.
+- [False Familiarity](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/false-familiarity) - Distinguishes brand recognition from meaningful market knowledge.
+- [Investor Story Forensics](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics) - Cross-examines an investor narrative against diligence evidence.
+- [Legacy Brand Relevance Reset](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/legacy-brand-relevance-reset) - Tests when brand heritage becomes a strategic constraint.
+- [Positioning Under Pressure](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/positioning-under-pressure) - Tests whether a position holds when the market shifts.
 - [Pricing Authority Diagnostic](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/pricing-authority-diagnostic) - Finds where pricing power is eroding before lagging metrics expose it.
+- [Reality Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/diagnostic/reality-audit) - Separates demonstrable facts from internal belief.
 - [Relevancy Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/relevancy-audit) - Detects when positioning is solving yesterday's problem.
-- [Revenue Story Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/revenue-story-audit) - Reconciles the revenue story with the mechanics beneath it.
-
-<details>
-<summary><strong>See all 18 Resilience Stack frameworks</strong></summary>
-
-| Track | Skill | Core question |
-|---|---|---|
-| Positioning | [Relevancy Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/relevancy-audit) | Is the company still the answer to the question its market is asking? |
-| Positioning | [Positioning Under Pressure](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/positioning-under-pressure) | Does the position hold when the market shifts? |
-| Positioning | [Competitive Narrative Stress Test](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/positioning/competitive-narrative-stress-test) | Can the competitive story survive scrutiny? |
-| Diagnostic | [Reality Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/diagnostic/reality-audit) | What is demonstrably true, and what does the team merely believe? |
-| Brand | [False Familiarity](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/false-familiarity) | Does the market know the company or only recognize it? |
-| Brand | [Brand as Memory System](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-as-memory-system) | How does the brand actually live in customer memory? |
-| Brand | [Legacy Brand Relevance Reset](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/legacy-brand-relevance-reset) | When does heritage become a strategic constraint? |
-| Brand | [Brand Permission Boundaries](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/brand/brand-permission-boundaries) | What is the market willing to let the brand become? |
-| Growth | [Revenue Story Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/revenue-story-audit) | Does the revenue narrative match the underlying mechanics? |
-| Growth | [Pricing Authority Diagnostic](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/pricing-authority-diagnostic) | Does pricing signal authority or spreadsheet compromise? |
-| Market definition | [Category Creation Pressure Test](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/category-creation-pressure-test) | Is the company creating a viable category or merely claiming one? |
-| Market definition | [TAM Lie Detector](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/tam-lie-detector) | Is the addressable market evidenced or rounded up? |
-| Intelligence | [Competitive Blind Spot Mapping](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/competitive-blind-spot-mapping) | What does the company fail to see that competitors can see? |
-| Intelligence | [Signal vs. Noise Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/signal-vs-noise-audit) | Which market signals deserve a response? |
-| Intelligence | [Customer Truth Extraction](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/customer-truth-extraction) | What do customers believe versus what the company assumes? |
-| Investor | [Investor Story Forensics](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/investor-story-forensics) | Does the investor narrative survive forensic examination? |
-| Investor | [Board Narrative Alignment](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/board-narrative-alignment) | Is the board hearing the same story as the market? |
-| Investor | [Exit Narrative Architecture](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/investor/exit-narrative-architecture) | Does the company story survive an acquirer's scrutiny? |
-
-</details>
+- [Revenue Story Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/growth/revenue-story-audit) - Reconciles the revenue narrative with the mechanics beneath it.
+- [Signal vs. Noise Audit](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/intelligence/signal-vs-noise-audit) - Determines which market signals deserve a response.
+- [TAM Lie Detector](https://github.com/Petrichor-Projects/resilience-stack/tree/main/skills/market-definition/tam-lie-detector) - Tests whether an addressable-market claim is evidenced or rounded up.
 
 > **Maintainer disclosure:** Resilience Stack is created and maintained by Petrichor Projects, the maintainer of this list. It earns featured placement because it is the list's reference implementation for evidence discipline and adversarial strategy work. It is evaluated under the same published criteria as external entries. The stack is licensed CC BY 4.0.
 
-**[Explore the repository](https://github.com/Petrichor-Projects/resilience-stack)** · **[Take a three-minute diagnostic](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=featured)**
+**[Take a three-minute diagnostic](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=featured)**
 
 ## Browse by outcome
 
-Prefer a visual, filterable view? Use the **[catalog browse page](https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html)** — filter by outcome and status, search by name, publisher, or license.
+Prefer a visual, filterable view? Use the **[catalog browse page](https://petrichor-projects.github.io/awesome-strategy-skills/catalog.html)**, filter by outcome and status, search by name, publisher, or license.
 
-Status labels mean:
-
-- **Petrichor Original** — Created by the list maintainer; ownership is disclosed.
-- **Reviewed** — Source, scope, instructions, maintenance, and license were manually inspected.
-- **Collection** — A useful discovery source; individual entries are not automatically endorsed.
+Status labels: **Petrichor Original** means the entry was created by the list maintainer, with ownership disclosed. **Reviewed** means the source, scope, instructions, maintenance, and license were manually inspected. **Collection** marks a useful discovery source whose individual entries are not automatically endorsed.
 
 ### Customer and market intelligence
 
@@ -190,20 +150,10 @@ Collections help you search beyond this editorial shortlist. Their inclusion doe
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Marketing skill collection covering evidence-led SEO, GEO, paid media, analytics, and cross-channel account workflows. **Collection · MIT**.
 - [Petrichor Marketing Skills](https://github.com/petrichorprojects/marketingskills) - Petrichor's public fork of the Marketing Skills library. **Collection · MIT**.
 - [PM Skills Marketplace](https://github.com/phuryn/pm-skills) - Large product-management library spanning discovery, strategy, execution, launch, and growth. **Collection · MIT**.
-- [Resilience Stack](https://github.com/Petrichor-Projects/resilience-stack) - Petrichor's 18 evidence-demanding strategy diagnostics and workshop frameworks. **Collection · CC BY 4.0**.
 
 ## How curation works
 
-An entry must do more than contain the word “strategy.” We look for:
-
-1. **A consequential decision** — The skill helps a user choose, prioritize, diagnose, or commit.
-2. **Evidence discipline** — It distinguishes facts, assumptions, inference, and missing inputs.
-3. **A bounded workflow** — Activation conditions, exclusions, steps, and completion criteria are clear.
-4. **Decision-grade outputs** — The result can be reviewed, challenged, and acted on.
-5. **Pressure testing** — Trade-offs, counterarguments, failure modes, or adversarial checks are present.
-6. **Safety and limits** — The skill does not hide uncertainty or impersonate evidence it does not have.
-7. **Reproducibility** — Another operator can understand how the output was produced.
-8. **Maintenance and licensing** — Ownership, license, source, and a viable maintenance signal are visible.
+An entry must do more than contain the word "strategy." We look for a **consequential decision** the skill helps a user choose, prioritize, diagnose, or commit to; **evidence discipline** that distinguishes facts, assumptions, inference, and missing inputs; a **bounded workflow** with clear activation conditions, exclusions, steps, and completion criteria; **decision-grade outputs** that can be reviewed, challenged, and acted on; **pressure testing** through trade-offs, counterarguments, failure modes, or adversarial checks; **safety and limits**, so the skill does not hide uncertainty or impersonate evidence it does not have; **reproducibility**, so another operator can understand how the output was produced; and **maintenance and licensing**, with visible ownership, license, source, and a viable maintenance signal.
 
 Read the full [editorial policy](EDITORIAL-POLICY.md), the evolving [Petrichor Strategy Skill Index rubric](evaluation/RUBRIC.md), and the [September 2026 catalog expansion record](docs/CATALOG-EXPANSION-2026-09-04.md). The machine-readable [catalog](data/catalog.json) records review dates, status, category, source, and license.
 
@@ -211,13 +161,13 @@ We optimize for trust per entry, not total entry count. Inclusion can be reverse
 
 ## Open evaluations
 
-The catalog publishes fixtures, pinned sources, complete outputs, dimension-level evidence, and conflicts—not unexplained scores.
+The catalog publishes fixtures, pinned sources, complete outputs, dimension-level evidence, and conflicts, not unexplained scores.
 
 The [nine-skill positioning benchmark](evaluation/runs/2026-09-06-positioning-benchmark/REPORT.md) compares research, diagnostic, positioning, scenario, and strategy-document workflows on the same fictional positioning-decay decision. Pinned sources, native outputs, dimension evidence, task-fit limits, and Petrichor's author conflict are public.
 
 All scores remain provisional pending blind outside review. They describe performance on this fixture, not permanent quality or business outcomes.
 
-**[Read the finding](evaluation/runs/2026-09-06-positioning-benchmark/REPORT.md)** · **[Inspect the method](evaluation/runs/2026-09-06-positioning-benchmark/METHOD.md)** · **[Challenge the scores](evaluation/runs/2026-09-06-positioning-benchmark/SCORES.md)**
+**[Inspect the method](evaluation/runs/2026-09-06-positioning-benchmark/METHOD.md)** · **[Challenge the scores](evaluation/runs/2026-09-06-positioning-benchmark/SCORES.md)**
 
 ## Quarterly research
 
@@ -239,18 +189,18 @@ Agent skills can contain executable scripts and instructions that affect files, 
 
 See [SECURITY.md](SECURITY.md) for reporting and review practices.
 
-## Contributing
-
-Know a strategy skill that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md), then [nominate it](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml) or open a pull request. Independent reviewers can use the [blind review protocol](docs/INDEPENDENT-REVIEW.md). Listed authors may use the optional [mentioned assets](docs/BADGE.md).
-
-Maintainers, authors, and commercial sponsors may nominate their own work. Self-interest must be disclosed; inclusion cannot be purchased.
-
 ## About Petrichor
 
 [Petrichor Projects](https://petrichorgrowth.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=about) is a strategy consultancy that turns what is true about a company into a position the market can understand, trust, and repeat.
 
 We maintain this list because the quality of AI-assisted strategy depends less on fluent output than on the evidence, pressure tests, and decision architecture behind it.
 
-**[Run a Resilience Stack diagnostic](https://petrichorgrowth.com/resilience-stack?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=footer)** · **[Work with Petrichor](https://petrichorgrowth.com/contact?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=footer)**
+**[Work with Petrichor](https://petrichorgrowth.com/contact?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=footer)**
+
+## Contributing
+
+Know a strategy skill that belongs here? Read [CONTRIBUTING.md](CONTRIBUTING.md), then [nominate it](https://github.com/Petrichor-Projects/awesome-strategy-skills/issues/new?template=nominate-skill.yml) or open a pull request. Independent reviewers can use the [blind review protocol](docs/INDEPENDENT-REVIEW.md). Listed authors may use the optional [mentioned assets](docs/BADGE.md).
+
+Maintainers, authors, and commercial sponsors may nominate their own work. Self-interest must be disclosed; inclusion cannot be purchased.
 
 The curation and original list content are dedicated to the public domain under [CC0 1.0](LICENSE). Linked projects retain their own licenses. Resilience Stack content remains licensed under CC BY 4.0 in its source repository.
