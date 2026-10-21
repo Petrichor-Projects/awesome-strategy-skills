@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-09-19",
+  "updated": "2026-10-21",
   "maintainer": "Petrichor Projects",
   "entries": [
     {
@@ -287,20 +287,6 @@
       "evaluation": "evaluation/records/competitor-profiling/2026-09-06-positioning-decay-v1.md"
     },
     {
-      "id": "continuous-discovery",
-      "name": "Continuous Discovery",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/continuous-discovery",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "customer-market-intelligence",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Establishes weekly customer contact, opportunity mapping, and assumption testing.",
-      "why_included": "Makes discovery a recurring decision system rather than a one-time research event.",
-      "conflict": "none"
-    },
-    {
       "id": "customer-research",
       "name": "Customer Research",
       "url": "https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research",
@@ -314,35 +300,6 @@
       "why_included": "Separates research modes and preserves verbatim evidence for downstream strategy.",
       "conflict": "none",
       "evaluation": "evaluation/records/customer-research/2026-09-06-positioning-decay-v1.md"
-    },
-    {
-      "id": "jtbd-building",
-      "name": "Jobs-to-be-Done Building",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/jtbd-building",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "customer-market-intelligence",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Uses push, pull, anxiety, and habit forces to uncover customer progress.",
-      "why_included": "Moves product discussion beyond requested features toward the job and switching forces.",
-      "conflict": "none"
-    },
-    {
-      "id": "positioning-craft",
-      "name": "Positioning Craft",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/positioning-craft",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "positioning-competitive",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Defines category, differentiated value, alternatives, and best-fit customers.",
-      "why_included": "Uses an alternatives-first sequence that links evidence to a positioning decision.",
-      "conflict": "none",
-      "evaluation": "evaluation/records/positioning-craft/2026-08-22-positioning-decay-v1.md"
     },
     {
       "id": "product-marketing",
@@ -360,21 +317,6 @@
       "evaluation": "evaluation/records/product-marketing/2026-08-22-positioning-decay-v1.md"
     },
     {
-      "id": "strategy-frameworks",
-      "name": "Strategy Frameworks",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/strategy-frameworks",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "positioning-competitive",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-09-06",
-      "description": "Structures where-to-play and how-to-win product choices.",
-      "why_included": "Connects aspiration, market choice, advantage, capabilities, and systems rather than stopping at tactics.",
-      "conflict": "none",
-      "evaluation": "evaluation/records/strategy-frameworks/2026-09-06-positioning-decay-v1.md"
-    },
-    {
       "id": "portfolio-strategy",
       "name": "Portfolio Strategy",
       "url": "https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/portfolio-strategy",
@@ -386,34 +328,6 @@
       "last_reviewed": "2026-09-04",
       "description": "Forces business-unit investment, harvest, and exit choices through comparative tests.",
       "why_included": "Uses the same attractiveness, right-to-win, and marginal-return logic across units and makes cross-subsidy and exit choices explicit.",
-      "conflict": "none"
-    },
-    {
-      "id": "prioritization-craft",
-      "name": "Prioritization Craft",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/prioritization-craft",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "product-portfolio",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Makes product trade-offs explicit with multiple prioritization models.",
-      "why_included": "Exposes impact, confidence, effort, and customer-value assumptions behind sequencing choices.",
-      "conflict": "none"
-    },
-    {
-      "id": "strategic-pm",
-      "name": "Strategic PM",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/strategic-pm",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "product-portfolio",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Connects product activity to outcomes and longer-horizon company choices.",
-      "why_included": "Helps distinguish strategic work from feature-factory output and improves decision communication.",
       "conflict": "none"
     },
     {
@@ -713,34 +627,6 @@
       "conflict": "none"
     },
     {
-      "id": "metrics-frameworks",
-      "name": "Metrics Frameworks",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/metrics-frameworks",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "measurement-experimentation",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Selects North Star, leading, lagging, and lifecycle metrics around customer value.",
-      "why_included": "Distinguishes value delivery and predictive indicators from vanity metrics.",
-      "conflict": "none"
-    },
-    {
-      "id": "okr-frameworks",
-      "name": "OKR Frameworks",
-      "url": "https://github.com/menkesu/awesome-pm-skills/tree/main/okr-frameworks",
-      "publisher": "Udi Menkes",
-      "kind": "skill",
-      "category": "measurement-experimentation",
-      "status": "reviewed",
-      "license": "MIT",
-      "last_reviewed": "2026-08-21",
-      "description": "Turns strategic intent into measurable quarterly outcomes and alignment mechanisms.",
-      "why_included": "Provides clear tests for measurable key results and connects goals across levels.",
-      "conflict": "none"
-    },
-    {
       "id": "operating-cadence",
       "name": "Operating Cadence",
       "url": "https://github.com/cbrock84/headcount/tree/main/plugins/operations/skills/operating-cadence",
@@ -1009,7 +895,7 @@
     {
       "id": "blue-ocean-strategy",
       "name": "Blue Ocean Strategy",
-      "url": "https://github.com/getagentseal/founder-playbook/tree/main/blue-ocean-strategy",
+      "url": "https://github.com/getagentseal/founder-playbook/tree/main/skills/blue-ocean-strategy",
       "publisher": "getagentseal",
       "kind": "skill",
       "category": "positioning-competitive",
