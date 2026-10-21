@@ -65,28 +65,22 @@ Status labels: **Petrichor Original** means the entry was created by the list ma
 
 - [Competitive Intelligence](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/competitive-intel) - Builds a recurring competitor-tracking system that feeds positioning, sales, and roadmap decisions. **Reviewed · MIT**.
 - [Competitor Profiling](https://github.com/coreyhaines31/marketingskills/tree/main/skills/competitor-profiling) - Produces structured, source-traceable competitor profiles from live market evidence. **Reviewed · MIT**.
-- [Continuous Discovery](https://github.com/menkesu/awesome-pm-skills/tree/main/continuous-discovery) - Establishes weekly customer contact, opportunity mapping, and assumption testing. **Reviewed · MIT**.
 - [Customer Research](https://github.com/coreyhaines31/marketingskills/tree/main/skills/customer-research) - Extracts jobs, pains, triggers, objections, and customer language from primary and public sources. **Reviewed · MIT**.
 - [Environmental Radar](https://github.com/eterdis/strategy-skills/tree/main/environmental-radar) - Runs a continuous PESTEL scan of external forces prioritized by impact, speed, and reversibility, then maintains a watch list with concrete monitoring triggers. **Reviewed · CC BY 4.0**.
-- [Jobs-to-be-Done Building](https://github.com/menkesu/awesome-pm-skills/tree/main/jtbd-building) - Uses push, pull, anxiety, and habit forces to uncover the progress customers seek. **Reviewed · MIT**.
 - [Market Sizing](https://github.com/OneWave-AI/claude-skills/tree/main/market-sizing) - Builds an investor-grade TAM/SAM/SOM estimate from top-down and bottom-up data, triangulated with cited sources and sensitivity ranges. **Reviewed · MIT**.
 
 ### Positioning and competitive strategy
 
-- [Blue Ocean Strategy](https://github.com/getagentseal/founder-playbook/tree/main/blue-ocean-strategy) - Applies the Blue Ocean toolkit (Strategy Canvas, ERRC, Six Paths, Buyer Utility Map) to escape commoditized competition, with explicit selection-bias caveats. **Reviewed · MIT**.
+- [Blue Ocean Strategy](https://github.com/getagentseal/founder-playbook/tree/main/skills/blue-ocean-strategy) - Applies the Blue Ocean toolkit (Strategy Canvas, ERRC, Six Paths, Buyer Utility Map) to escape commoditized competition, with explicit selection-bias caveats. **Reviewed · MIT**.
 - [Playing to Win](https://github.com/eterdis/strategy-skills/tree/main/playing-to-win) - Builds or pressure-tests a five-choice strategy cascade spanning winning aspiration, where to play, and how to win. **Reviewed · CC BY 4.0**.
 - [Porter's Five Forces](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/porters-five-forces) - Assesses industry attractiveness across rivalry, supplier power, buyer power, substitutes, and new entrants. **Reviewed · MIT**.
-- [Positioning Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/positioning-craft) - Applies an alternatives-first positioning process to define category, value, and best-fit customers. **Reviewed · MIT**.
 - [Product Marketing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/product-marketing) - Builds shared positioning, audience, competitive, and messaging context for downstream marketing work. **Reviewed · MIT**.
-- [Strategy Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/strategy-frameworks) - Structures where-to-play and how-to-win choices using established strategy frameworks. **Reviewed · MIT**.
 - [VRIO Analysis](https://github.com/eterdis/strategy-skills/tree/main/vrio-analysis) - Tests resources for value, rarity, inimitability, and organization, then assesses dynamic capabilities to see whether an advantage will hold. **Reviewed · CC BY 4.0**.
 
 ### Product and portfolio strategy
 
 - [Portfolio Strategy](https://github.com/cbrock84/headcount/tree/main/plugins/corporate-strategy/skills/portfolio-strategy) - Forces business-unit investment, harvest, and exit choices through attractiveness, right-to-win, and marginal-return tests. **Reviewed · MIT**.
-- [Prioritization Craft](https://github.com/menkesu/awesome-pm-skills/tree/main/prioritization-craft) - Makes roadmap trade-offs explicit with RICE, ICE, Kano, and value-versus-effort models. **Reviewed · MIT**.
 - [Product Strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy) - Builds a product strategy across a nine-section canvas covering vision, segments, costs, value, trade-offs, metrics, growth, capabilities, and defensibility. **Reviewed · MIT**.
-- [Strategic PM](https://github.com/menkesu/awesome-pm-skills/tree/main/strategic-pm) - Connects product activity to outcomes, company choices, and a longer strategic horizon. **Reviewed · MIT**.
 - [Wardley Map](https://github.com/eterdis/strategy-skills/tree/main/wardley-map) - Maps user needs, component dependencies, evolution, inertia, and observable triggers to inform build, buy, and investment choices. **Reviewed · CC BY 4.0**.
 
 ### Go-to-market and growth
@@ -128,8 +122,6 @@ Status labels: **Petrichor Original** means the entry was created by the list ma
 - [A/B Testing](https://github.com/coreyhaines31/marketingskills/tree/main/skills/ab-testing) - Defines hypotheses, variants, success metrics, and decision rules for controlled experiments. **Reviewed · MIT**.
 - [Analytics](https://github.com/coreyhaines31/marketingskills/tree/main/skills/analytics) - Builds a measurement plan tied to decisions rather than vanity reporting. **Reviewed · MIT**.
 - [Meridian Budget Optimization](https://github.com/google/meridian/tree/main/skills/meridian_budget_optimization) - Optimizes fixed or flexible media budgets from a fitted Meridian model with explicit constraints, scenario comparisons, and mandatory human checkpoints. **Reviewed · Apache 2.0**.
-- [Metrics Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/metrics-frameworks) - Selects North Star, leading, lagging, and lifecycle metrics around delivered customer value. **Reviewed · MIT**.
-- [OKR Frameworks](https://github.com/menkesu/awesome-pm-skills/tree/main/okr-frameworks) - Turns strategic intent into measurable quarterly outcomes and alignment mechanisms. **Reviewed · MIT**.
 
 ### Execution systems
 
@@ -195,7 +187,7 @@ See [SECURITY.md](SECURITY.md) for reporting and review practices.
 
 We maintain this list because the quality of AI-assisted strategy depends less on fluent output than on the evidence, pressure tests, and decision architecture behind it.
 
-**[Work with Petrichor](https://petrichorgrowth.com/contact?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=footer)**
+**[Work with Petrichor](https://petrichorgrowth.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-strategy-skills&utm_content=footer#contact)**
 
 ## Contributing
 
