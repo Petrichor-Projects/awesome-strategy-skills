@@ -116,6 +116,7 @@ Status labels: **Petrichor Original** means the entry was created by the list ma
 - [Scenario War Room](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/scenario-war-room) - Models cascading, multi-variable risk across finance, revenue, product, people, and operations. **Reviewed · MIT**.
 - [Strategic Alignment](https://github.com/alirezarezvani/claude-skills/tree/main/c-level-advisor/skills/strategic-alignment) - Finds broken strategy cascades, conflicting goals, silo optimization, and orphan work. **Reviewed · MIT**.
 - [Strategy Red-Team](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/strategy-red-team) - Attacks a strategy, roadmap, or PRD's load-bearing assumptions and returns kill criteria and the cheapest test for each. **Reviewed · MIT**.
+- [Three Rooms](https://github.com/Petrichor-Projects/three-rooms) - Turns a stalled idea into a committed plan by separating Dreamer, Realist, and Critic work, then deciding in an Observer pass with ranked assumptions, cheapest tests, and kill criteria. **Petrichor Original · CC BY 4.0**.
 
 ### Measurement and experimentation
 

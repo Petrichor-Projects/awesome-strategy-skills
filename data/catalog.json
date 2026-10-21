@@ -1017,6 +1017,20 @@
       "description": "Selects a product-led, sales-led, or community-led motion and sequences launch and phase transitions for a specific product.",
       "why_included": "Grounds recommendations in reference patterns, an explicit failure-mode catalog, and validation constraints rather than generic GTM advice.",
       "conflict": "none"
+    },
+    {
+      "id": "three-rooms",
+      "name": "Three Rooms",
+      "url": "https://github.com/Petrichor-Projects/three-rooms",
+      "publisher": "Petrichor Projects",
+      "kind": "skill",
+      "category": "executive-decisions",
+      "status": "petrichor-original",
+      "license": "CC-BY-4.0",
+      "last_reviewed": "2026-10-21",
+      "description": "Turns a stalled idea into a committed plan by separating Dreamer, Realist, and Critic work, then deciding in an Observer pass with ranked assumptions, cheapest tests, and kill criteria.",
+      "why_included": "Adds gated rooms, fact and assumption labels, a pre-mortem Critic, pre-set kill criteria, and an explicit commit, reshape, or park decision with a review loop, plus twelve pass-fail eval cases against a single-prompt baseline (not yet run).",
+      "conflict": "Created and maintained by Petrichor Projects."
     }
   ]
 }
